@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amirtha Varshni M
+#  Hi, I'm Amirtha Varshni M
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;ML+Engineer+%F0%9F%A4%96;Software+Developer+%F0%9F%9A%80;Building+AI-Powered+Solutions+%E2%9C%A8" alt="Typing SVG" />
@@ -10,17 +10,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 Currently working on **AI Projects** that push the boundaries of what's possible
-- 🌱 Actively learning **Data Science** & mastering **Java**
-- 💡 Exploring the intersection of **Machine Learning** and **Full Stack Development**
-- 🎯 Building scalable applications with clean, efficient code
-- ⚡ Fun fact: I turn coffee into code and data into insights ☕➡️💻
+-  Currently working on **AI Projects** that push the boundaries of what's possible
+-  Actively learning **Data Science** & mastering **Java**
+-  Exploring the intersection of **Machine Learning** and **Full Stack Development**
+-  Building scalable applications with clean, efficient code
+-  Fun fact: I turn coffee into code and data into insights ☕➡️💻
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-## 🎯 What I'm Working On
+##  What I'm Working On
 ```python
 class AmirthaVarshni:
     def __init__(self):
