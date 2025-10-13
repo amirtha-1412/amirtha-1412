@@ -16,7 +16,6 @@
 -  Actively learning **Data Science** & mastering **Java**
 -  Exploring the intersection of **Machine Learning** and **Full Stack Development**
 -  Building scalable applications with clean, efficient code
--  Fun fact: I turn coffee into code and data into insights 
 
 ---
 
