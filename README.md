@@ -38,25 +38,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
-##  What I'm Working On
-```python
-class AmirthaVarshni:
-    def __init__(self):
-        self.name = "Amirtha Varshni M"
-        self.role = ["Full Stack Developer", "ML Engineer", "Software Developer"]
-        self.current_focus = ["AI Projects", "Data Science", "Java Mastery"]
-        self.tech_stack = {
-            "languages": ["Python", "Java", "C++", "JavaScript", "SQL"],
-            "frameworks": ["Streamlit", "React", "Node.js"],
-            "tools": ["Git", "VS Code", "Power BI"]
-        }
-    
-    def current_mission(self):
-        return "Building AI solutions that make a difference 🚀"
-    
-    def get_in_touch(self):
-        return "Let's collaborate and create something amazing together!"
-
-me = AmirthaVarshni()
-print(me.current_mission())
