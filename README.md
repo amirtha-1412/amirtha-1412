@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Passionate about crafting intelligent solutions through code and data 🌟</em>
+  <em>Passionate about crafting intelligent solutions through code and data </em>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 -  Actively learning **Data Science** & mastering **Java**
 -  Exploring the intersection of **Machine Learning** and **Full Stack Development**
 -  Building scalable applications with clean, efficient code
--  Fun fact: I turn coffee into code and data into insights ☕➡️💻
+-  Fun fact: I turn coffee into code and data into insights 
 
 ---
 
