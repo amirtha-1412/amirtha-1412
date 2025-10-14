@@ -48,4 +48,46 @@ Work Philosophy:
   - Continuous learning and exploring new technologies
   - Delivering high-quality, reliable, and scalable solutions
 
+```
 
+---
+
+<div align="center">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+## 💻 Tech Stack
+
+### 🚀 Core Technologies
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nodejs,mysql,firebase&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,pycharm&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+
+</td>
+<td width="50%" valign="top">
+
+## 📚 Additional Technologies
+
+| Category | Technologies |
+|----------|-------------|
+| **Data Science** | Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn |
+| **Web Frameworks** | Streamlit • Flask • Django |
+| **IoT Platforms** | Arduino • ESP8266 • Raspberry Pi |
+| **Version Control** | Git • GitHub • GitLab |
+| **IDEs & Editors** | VS Code • PyCharm • Jupyter Notebook |
+
+</td>
+</tr>
+</table>
+
+</div>
