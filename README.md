@@ -1,47 +1,58 @@
-# Hi there, I'm Amirtha Varshni M 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amirtha-1412/amirtha-1412/main/header.png" alt="Amirtha Varshni M Banner">
+</p>
 
-<a href="https://www.linkedin.com/in/amirtha-varshni-m">
-  <img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:kit27.am006@gmail.com">
-  <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br />
-<br />
-
-I am a Computer Science undergraduate specializing in AI & Machine Learning with a strong foundation in software development, data structures, and algorithms [1]. I have hands-on experience building scalable, AI-powered web applications and am passionate about developing impactful technology solutions. I'm also a hackathon enthusiast and recently **secured Second Prize at the TNWISE Women Hackathon 2025** [1].
+I am a Computer Science undergraduate specializing in **AI & Machine Learning** with a strong foundation in software development, data structures, and algorithms [1]. I have hands-on experience building scalable, AI-powered web applications and a passion for developing impactful technology solutions. My work includes winning **Second Prize at the TNWISE Women Hackathon 2025** [1].
 
 ---
 
-### 🚀 My Featured Projects
+### Core Projects
 
-- **🧠 AI-Powered Network Anomaly Detection System:** Developed an intelligent cybersecurity system using **Python, TensorFlow, and Scikit-learn** to detect network intrusions in real-time. The system features a **React** frontend and a **Flask** backend [1].
-- **📝 AI Notes Summarizer:** Built a web application with **Streamlit** and **Hugging Face Transformers** that uses both extractive and abstractive methods to summarize text and notes [1].
-- **🚕 Taxi Fare Prediction:** Trained and evaluated multiple regression models to predict taxi fares from trip data. Deployed a user-friendly interface using **Streamlit** to showcase the model's functionality [1].
+<details>
+  <summary><strong>AI-Powered Network Anomaly Detection System</strong></summary>
+  <p>
+    An intelligent cybersecurity system developed using Python, TensorFlow, and Scikit-learn to detect network intrusions in real-time. The architecture features a React frontend and a Flask backend for seamless user interaction and data processing [1].
+  </p>
+</details>
+
+<details>
+  <summary><strong>AI Notes Summarizer</strong></summary>
+  <p>
+    A web application built with Streamlit and Hugging Face Transformers that leverages both extractive and abstractive methods to generate concise summaries from lengthy text and notes, enhancing productivity and information retention [1].
+  </p>
+</details>
+
+<details>
+  <summary><strong>Taxi Fare Prediction Model</strong></summary>
+  <p>
+    Trained and evaluated multiple regression models (including Linear Regression and Random Forest) to accurately predict taxi fares. The final model was deployed with a user-friendly interface using Streamlit for interactive predictions [1].
+  </p>
+</details>
 
 ---
 
-### 🛠️ My Tech Stack
+### Technical Skillset
 
-- **Languages:** Python, Java, C, JavaScript, SQL [1]
-- **Web & ML Frameworks:** React, HTML5, CSS3, TensorFlow, Flask, Scikit-learn, Transformers, Streamlit [1]
-- **Tools & Platforms:** GitHub, Google Colab, Power BI, VS Code [1]
-- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS [1]
+| Category                | Technologies                                                               |
+| ----------------------- | -------------------------------------------------------------------------- |
+| **Programming Languages** | Python, Java, C, JavaScript, SQL [1]                                         |
+| **Frameworks & Libraries** | React, HTML5, CSS3, TensorFlow, Flask, Scikit-learn, Transformers, Streamlit [1] |
+| **Developer Tools**       | GitHub, Google Colab, Power BI, VS Code [1]                                  |
+| **Core Competencies**   | Data Structures & Algorithms, OOP, DBMS, System Design [1]                   |
 
 ---
 
-### 📊 My GitHub Stats
+### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical" alt="Amirtha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical" alt="Top Languages" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=dracula&hide_border=true&border_radius=0" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=dracula&hide_border=true&border_radius=0" />
 </p>
 
 ---
 
-### 📫 How to Reach Me
+### Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/amirtha-varshni-m](https://www.linkedin.com/in/amirtha-varshni-m) [1]
-- **Email:** kit27.am006@gmail.com [1]
+- **Email:** [kit27.am006@gmail.com](mailto:kit27.am006@gmail.com) [1]
 
-Feel free to explore my repositories and connect with me
