@@ -1,23 +1,20 @@
-
-
 <div align="center">
 
-<div style="position: relative; padding: 40px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 15px; border: 2px solid #667eea;">
+<!-- Glass Effect Banner -->
+<div style="position: relative; padding: 50px 40px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2);">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25" style="position: absolute; top: 12px; left: 12px;" />
+<!-- Floating Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" style="position: absolute; top: 15px; left: 15px; filter: drop-shadow(0 0 8px #3776AB);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32" height="32" style="position: absolute; top: 15px; right: 15px; filter: drop-shadow(0 0 8px #FF6F00);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" style="position: absolute; bottom: 15px; left: 15px; filter: drop-shadow(0 0 8px #61DAFB);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" style="position: absolute; bottom: 15px; right: 15px; filter: drop-shadow(0 0 8px #F7DF1E);" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="25" height="25" style="position: absolute; top: 12px; right: 12px;" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25" style="position: absolute; bottom: 12px; left: 12px;" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" style="position: absolute; bottom: 12px; right: 12px;" />
-
-<h1 style="font-size: 2.5rem; font-weight: 700; color: #667eea; margin: 0;">
-Amirtha Varshni M
+<!-- Content -->
+<h1 style="font-size: 3rem; font-weight: 800; background: linear-gradient(45deg, #667eea, #764ba2, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 0;">
+  Amirtha Varshni M
 </h1>
-
-<p style="color: #4ECDC4; margin-top: 8px; font-weight: 500;">
-AI & ML Developer | Full Stack Engineer
+<p style="color: #2D3748; font-size: 1.2rem; margin-top: 12px; font-weight: 600;">
+  AI & Machine Learning Specialist
 </p>
 
 </div>
