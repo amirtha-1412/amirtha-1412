@@ -1,93 +1,47 @@
-![Header](./github-header-banner.png)
-<div align="center">
+# Hi there, I'm Amirtha Varshni M 👋
 
-<!-- ABOUT ME Section -->
-<div align="center">
+<a href="https://www.linkedin.com/in/amirtha-varshni-m">
+  <img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="mailto:kit27.am006@gmail.com">
+  <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
+<br />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%" />
-
-# Professional Summary
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%" />
-
-</div>
-
-
-<div align="center">
-
-### Hello! I'm a software developer dedicated to building robust, scalable, and intelligent solutions.
-
-</div>
-
-<br/>
-
-<div align="left">
-  
-```yaml
-Overview:
-  Role: Full-Stack Developer & AI/ML Enthusiast
-  Specialization:
-    - Python programming and AI/ML development
-    - Building robust full-stack web applications
-    - Developing AI/ML solutions for real-world problems
-    - Implementing scalable backend systems
-    - Integrating AI/ML models into projects
-    - Designing user-friendly interfaces
-  
-Current Focus:
-  - Developing AI-powered applications like AI Legal Assistant
-  - Enhancing IoT-based projects like Smart UV Door Lock
-  - Building modern web applications (Portfolio, To-do App, Art Gallery)
-  - Improving competitive programming skills and problem-solving
-
-Mission: >
-  Create technology solutions that deliver meaningful impact and improve user experiences
-
-Work Philosophy:
-  - Purpose-driven coding with clean and maintainable Python code
-  - Continuous learning and exploring new technologies
-  - Delivering high-quality, reliable, and scalable solutions
-
-```
+I am a Computer Science undergraduate specializing in AI & Machine Learning with a strong foundation in software development, data structures, and algorithms [1]. I have hands-on experience building scalable, AI-powered web applications and am passionate about developing impactful technology solutions. I'm also a hackathon enthusiast and recently **secured Second Prize at the TNWISE Women Hackathon 2025** [1].
 
 ---
 
-<div align="center">
+### 🚀 My Featured Projects
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+- **🧠 AI-Powered Network Anomaly Detection System:** Developed an intelligent cybersecurity system using **Python, TensorFlow, and Scikit-learn** to detect network intrusions in real-time. The system features a **React** frontend and a **Flask** backend [1].
+- **📝 AI Notes Summarizer:** Built a web application with **Streamlit** and **Hugging Face Transformers** that uses both extractive and abstractive methods to summarize text and notes [1].
+- **🚕 Taxi Fare Prediction:** Trained and evaluated multiple regression models to predict taxi fares from trip data. Deployed a user-friendly interface using **Streamlit** to showcase the model's functionality [1].
 
-<br/>
+---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🛠️ My Tech Stack
 
-## 💻 Tech Stack
+- **Languages:** Python, Java, C, JavaScript, SQL [1]
+- **Web & ML Frameworks:** React, HTML5, CSS3, TensorFlow, Flask, Scikit-learn, Transformers, Streamlit [1]
+- **Tools & Platforms:** GitHub, Google Colab, Power BI, VS Code [1]
+- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS [1]
 
-### 🚀 Core Technologies
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nodejs,mysql,firebase&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,pycharm&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+---
 
-</td>
-<td width="50%" valign="top">
+### 📊 My GitHub Stats
 
-## 📚 Additional Technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical" alt="Amirtha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-| Category | Technologies |
-|----------|-------------|
-| **Data Science** | Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn |
-| **Web Frameworks** | Streamlit • Flask • Django |
-| **IoT Platforms** | Arduino • ESP8266 • Raspberry Pi |
-| **Version Control** | Git • GitHub • GitLab |
-| **IDEs & Editors** | VS Code • PyCharm • Jupyter Notebook |
+---
 
-</td>
-</tr>
-</table>
+### 📫 How to Reach Me
 
-</div>
+- **LinkedIn:** [linkedin.com/in/amirtha-varshni-m](https://www.linkedin.com/in/amirtha-varshni-m) [1]
+- **Email:** kit27.am006@gmail.com [1]
+
+Feel free to explore my repositories and connect with me
