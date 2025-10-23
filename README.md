@@ -1,144 +1,155 @@
-🚀 Amirtha Varshni M - AI & ML Developer
-<div align="center">
-✨ Building Intelligent Solutions with Code ✨
+
+### **AI & ML Developer | Full Stack Enthusiast | Problem Solver**
+
+![AI](https://img.shields.io/badge/AI-Developer-FF6B6B?style=flat-square)
+![ML](https://img.shields.io/badge/Machine-Learning-4ECDC4?style=flat-square)
+![Web](https://img.shields.io/badge/Full-Stack-45B7D1?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Pro-FFA500?style=flat-square)
 
 </div>
 
 ## 👋 About Me
 
-I'm a Computer Science (AI & ML) undergraduate with a strong foundation in software development, data structures, and algorithms. Passionate about building scalable AI-powered web applications and solving complex problems through technology.
+I'm a passionate Computer Science (AI & ML) undergraduate with expertise in building intelligent, scalable solutions. I thrive on transforming complex challenges into efficient, AI-driven applications that make a real impact.
 
-## 📊 GitHub Stats
+> *"Code is poetry, and AI is the muse that inspires innovation."*
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Amirtha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirtha-1412&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true)
+| **Statistics** | **Streak** | **Languages** |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000" width="400"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirtha-1412&theme=algolia&hide_border=true&background=00000000" width="400"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=algolia&hide_border=true&bg_color=00000000" width="300"> |
 
 </div>
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
-### 🤖 **AI & Machine Learning**
+### **🤖 AI & Machine Learning**
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C7B7?style=for-the-badge&logo=ai&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 💻 **Full Stack Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</div>
+
+### **🌐 Full Stack Development**
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🔧 **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-### 🛠️ **Tools & Platforms**
+### **⚙️ Tools & Platforms**
+<div align="center">
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
 
 ## 🌟 Featured Projects
 
-### 🔐 **AI-Powered Network Anomaly Detection System**
-![AI Security](https://img.shields.io/badge/AI-Security-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-TensorFlow-green?style=for-the-badge)
+### **🔐 AI-Powered Network Anomaly Detection**
+> *Intelligent cybersecurity system for real-time threat detection*
 
-Developed an intelligent cybersecurity system leveraging Deep Learning to detect network intrusions and anomalous access patterns in real-time.
+![Python](https://img.shields.io/badge/Python-TensorFlow-green)
+![Web](https://img.shields.io/badge/Web-Flask%2BReact-orange)
+![AI](https://img.shields.io/badge/AI-Deep%20Learning-purple)
 
-**Tech Stack:** `Python` `TensorFlow` `Flask` `React` `Scikit-learn`
-
----
-
-### 🚕 **Taxi Fare Prediction System**
-![Machine Learning](https://img.shields.io/badge/ML-Regression-yellow?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployed-Streamlit-brightgreen?style=for-the-badge)
-
-Built and trained regression models (Linear Regression, Random Forest) to predict taxi fares with high accuracy. Deployed with Streamlit UI.
-
-**Tech Stack:** `Python` `Streamlit` `Scikit-learn` `Regression Models`
+**Tech:** `Python` `TensorFlow` `Flask` `React` `Scikit-learn`
 
 ---
 
-### 📝 **AI Notes Summarizer**
-![NLP](https://img.shields.io/badge/NLP-Summarization-purple?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-red?style=for-the-badge)
+### **🚕 Taxi Fare Prediction System**
+> *ML-powered fare prediction with high accuracy deployment*
 
-Built an AI web app to summarize notes using extractive and abstractive methods. Integrated Hugging Face Transformers and Sumy.
+![ML](https://img.shields.io/badge/ML-Regression-yellow)
+![Deployment](https://img.shields.io/badge/Deployed-Streamlit-brightgreen)
+![Data](https://img.shields.io/badge/Data-Science-blue)
 
-**Tech Stack:** `Streamlit` `Transformers` `Sumy` `NLP`
+**Tech:** `Python` `Streamlit` `Scikit-learn` `Regression Models`
 
 ---
 
-### 📊 **Netflix Dashboard using Power BI**
-![Data Visualization](https://img.shields.io/badge/Data-Viz-orange?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/BI-PowerBI-blue?style=for-the-badge)
+### **📝 AI Notes Summarizer**
+> *Intelligent text summarization using advanced NLP techniques*
 
-Created an interactive Power BI dashboard using Netflix dataset. Analyzed content by genre, country, and ratings.
+![NLP](https://img.shields.io/badge/NLP-Summarization-purple)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-red)
+![Web App](https://img.shields.io/badge/Web%20App-Streamlit-orange)
 
-**Tech Stack:** `Power BI` `Data Visualization` `Business Intelligence`
+**Tech:** `Streamlit` `Transformers` `Sumy` `NLP`
 
-## 💼 Professional Experience
+---
 
-### 🤖 **Machine Learning Intern** | Appin Technology
-![Internship](https://img.shields.io/badge/Dec_2024-Jan_2025-Professional-blue?style=for-the-badge)
+### **📊 Netflix Analytics Dashboard**
+> *Interactive data visualization for content insights*
 
-- Built and trained regression models to predict taxi fares with high accuracy
-- Successfully deployed functional prototype combining ML models with user-friendly interface
+![BI](https://img.shields.io/badge/Business-Intelligence-blue)
+![Data Viz](https://img.shields.io/badge/Data-Visualization-orange)
+![Analytics](https://img.shields.io/badge/Analytics-Dashboard-green)
 
-### 🌐 **Full Stack Web Development Intern** | LearnLogicify Technologies LLP
-![Web Development](https://img.shields.io/badge/Full_Stack-Web_Dev-green?style=for-the-badge)
+**Tech:** `Power BI` `Data Visualization` `Business Intelligence`
 
-- Built and deployed four hands-on projects including portfolio, art gallery, and to-do apps
-- Strengthened skills in responsive design, DOM manipulation, and UI/UX principles
+## 💼 Professional Journey
 
-## 🏆 Achievements
+### **🤖 Machine Learning Intern** | *Appin Technology* 
+<sub>Dec 2024 - Jan 2025</sub>
+
+- Developed regression models for accurate taxi fare predictions
+- Deployed end-to-end ML prototype with user-friendly interface
+- Achieved high model accuracy using ensemble methods
+
+### **🌐 Full Stack Developer Intern** | *LearnLogicify Technologies LLP*
+<sub>Web Development Focus</sub>
+
+- Built and deployed 4+ production-ready web applications
+- Enhanced skills in responsive design and UI/UX principles
+- Implemented modern frontend and backend architectures
+
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-![Hackathon](https://img.shields.io/badge/TNWISE_Women_Hackathon_2025-2nd_Prize-success?style=for-the-badge)
-![CodeChef](https://img.shields.io/badge/CodeChef-80%2B_Contests-competitive?style=for-the-badge)
-![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Problems-important?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/TNWISE_Hackathon_2025-2nd_Prize-success)
+![CodeChef](https://img.shields.io/badge/CodeChef-80%2B_Contests-competitive)
+![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solver-important)
+
+**Certifications:** `NPTEL` `Coursera` `IBM SQL` `Design Thinking`
 
 </div>
 
-## 📚 Certifications
-
-- **NPTEL**: Joy of Computing, Design Thinking
-- **Coursera**: ML Basics, Get Started with Python
-- **IBM**: SQL Fundamentals
-
-## 📫 Let's Connect!
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kitz7.amoo6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kitz7.amoo6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amirtha_Varshni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirtha-varshni-m)
-[![GitHub](https://img.shields.io/badge/GitHub-amirtha--1412-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirtha-1412)
-[![Phone](https://img.shields.io/badge/Phone-%2B918807980829-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+918807980829)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ **"Turning complex problems into intelligent solutions through code and creativity."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=amirtha-1412&color=blueviolet&style=flat-square)
-
-**⭐ Feel free to explore my repositories and don't forget to star if you find something interesting!**
+[![Email](https://img.shields.io/badge/📧_Email-kitz7.amoo6@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kitz7.amoo6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Amirtha_Varshni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirtha-varshni-m)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-amirtha--1412-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirtha-1412)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-6E5494?style=for-the-badge&logo=react&logoColor=white)](#)
 
 </div>
 
 ---
+
+<div align="center">
+
+### **✨ Innovation through Intelligence • Excellence through Execution**
+
+![Visitors](https://komarev.com/ghpvc/?username=amirtha-1412&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+**⭐ Star my repositories if you find something inspiring!**
+
 *Last Updated: February 2025*
+
+</div>
