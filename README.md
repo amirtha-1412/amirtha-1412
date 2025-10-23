@@ -5,18 +5,18 @@
 <h3 align="center">Computer Science Student | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  I am a Computer Science undergraduate specializing in AI & Machine Learning, with a strong foundation in software development, data structures, and algorithms [1]. I have hands-on experience building scalable, AI-powered web applications and a passion for developing impactful technology solutions.
+  A passionate Computer Science undergraduate specializing in **AI & Machine Learning**, with proven expertise in software development, data structures, and building scalable, AI-powered applications [1].
 </p>
 
 ---
 
-### Core Projects
+### 🚀 Core Projects
 
 <details align="center">
   <summary><strong>AI-Powered Network Anomaly Detection System</strong></summary>
   <br>
   <p>
-    An intelligent cybersecurity system developed using Python, TensorFlow, and Scikit-learn to detect network intrusions in real-time. Features a React frontend and a Flask backend [1].
+    An intelligent cybersecurity system using Python, TensorFlow, and Scikit-learn to detect network intrusions in real-time. Features a React frontend and a Flask backend for a seamless user experience [1].
   </p>
 </details>
 
@@ -24,7 +24,7 @@
   <summary><strong>AI Notes Summarizer</strong></summary>
   <br>
   <p>
-    A web application built with Streamlit and Hugging Face Transformers that leverages both extractive and abstractive methods to generate concise summaries from text [1].
+    A web application built with Streamlit and Hugging Face Transformers that leverages both extractive and abstractive methods to generate concise summaries from unstructured text [1].
   </p>
 </details>
 
@@ -32,13 +32,13 @@
   <summary><strong>Taxi Fare Prediction Model</strong></summary>
   <br>
   <p>
-    Trained and deployed multiple regression models to accurately predict taxi fares, with a user-friendly interface built using Streamlit for interactive predictions [1].
+    Trained and deployed multiple regression models to accurately predict taxi fares. The project includes an interactive user interface built with Streamlit for real-time predictions [1].
   </p>
 </details>
 
 ---
 
-### Tech Stack & Tools
+### 🛠️ Technical Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -49,11 +49,10 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -64,16 +63,24 @@
 
 ---
 
-### GitHub Analytics
+### 🏆 Achievements & Recognition
+
+-   **Second Prize**, *TNWISE Women Hackathon 2025* [1]
+-   Developed and deployed multiple end-to-end ML-powered web applications.
+-   Proficient in building and training deep learning models for real-world use cases.
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=dracula&hide_border=true&border_radius=0&line_height=21" alt="Amirtha's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=dracula&hide_border=true&border_radius=0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=dracula&hide_border=true&border_radius=0&line_height=21" alt="Amirtha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=dracula&hide_border=true&border_radius=0" alt="Top Languages" />
 </p>
 
 ---
 
-### Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amirtha-varshni-m" target="_blank">
