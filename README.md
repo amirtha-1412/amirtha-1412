@@ -1,27 +1,16 @@
 <div align="center">
 
-<!-- Gradient Border Banner -->
-<div style="position: relative; padding: 50px 40px; background: white; border-radius: 20px; background: linear-gradient(white, white) padding-box, linear-gradient(45deg, #667eea, #764ba2, #4ECDC4) border-box; border: 3px solid transparent;">
-
-<!-- Corner Badges -->
-<div style="position: absolute; top: -10px; left: 20px; background: #667eea; color: white; padding: 5px 15px; border-radius: 15px; font-size: 0.9rem; font-weight: 600;">
-  Python
-</div>
-<div style="position: absolute; top: -10px; right: 20px; background: #4ECDC4; color: white; padding: 5px 15px; border-radius: 15px; font-size: 0.9rem; font-weight: 600;">
-  AI/ML
-</div>
+<!-- Simple Working Banner -->
+<div style="border: 3px solid #667eea; padding: 40px; border-radius: 15px; background: #f8f9fa; position: relative;">
 
 <!-- Corner Icons -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="25" height="25" style="position: absolute; bottom: 15px; left: 15px; opacity: 0.7;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25" style="position: absolute; bottom: 15px; right: 15px; opacity: 0.7;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="position: absolute; top: 10px; left: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30" style="position: absolute; top: 10px; right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" style="position: absolute; bottom: 10px; left: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="position: absolute; bottom: 10px; right: 10px;" />
 
-<!-- Content -->
-<h1 style="font-size: 3rem; font-weight: 800; background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 0;">
-  Amirtha Varshni M
-</h1>
-<p style="color: #2D3748; font-size: 1.1rem; margin-top: 10px; font-weight: 500;">
-  Building Intelligent Solutions with Code
-</p>
+<h1 style="color: #667eea; margin: 0; font-size: 2.5rem;">Amirtha Varshni M</h1>
+<p style="color: #4ECDC4; font-size: 1.2rem; margin: 10px 0 0 0;">AI & ML Developer | Full Stack Engineer</p>
 
 </div>
 
