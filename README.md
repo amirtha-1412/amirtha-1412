@@ -1,24 +1,12 @@
 <div align="center">
 
-<!-- Matrix Style Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Amirtha+Varshni+M" alt="Matrix Name" />
-</h1>
+<!-- Clean Animated Introduction -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=2800&pause=800&color=667EEA&center=true&vCenter=true&width=500&lines=Amirtha+Varshni+M;AI+%26+ML+Developer)](https://git.io/typing-svg)
 
-<!-- Animated Tech Stack -->
+<!-- Simple Animated Description -->
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=16&duration=3500&pause=1200&color=8E44AD&center=true&vCenter=true&width=400&lines=Passionate+about+building+intelligent+solutions;Transforming+data+into+insights;Creating+impactful+technology" alt="Description" />
 </p>
-
-<!-- Animated Description -->
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=3500&pause=800&color=667eeA&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Specialist;Full+Stack+Web+Developer;Data+Science+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
-  
-</div>
 
 </div>
 
