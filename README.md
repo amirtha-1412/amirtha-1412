@@ -1,22 +1,21 @@
 <div align="center">
 
-<div style="position: relative; padding: 50px 40px; background: linear-gradient(135deg, #667eea0a 0%, #764ba20a 50%, #4ECDC40a 100%); border-radius: 20px; border: 2px solid #667eea33;">
+<div style="position: relative; padding: 50px 40px; background: #1a1a2e; border-radius: 20px; border: 2px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.2);">
 
-<!-- Corner Icons -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" style="position: absolute; top: 15px; left: 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="position: absolute; top: 15px; left: 15px; filter: brightness(0) invert(1);" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="28" height="28" style="position: absolute; top: 15px; right: 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30" style="position: absolute; top: 15px; right: 15px; filter: brightness(0) invert(1);" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" style="position: absolute; bottom: 15px; left: 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" style="position: absolute; bottom: 15px; left: 15px; filter: brightness(0) invert(1);" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" style="position: absolute; bottom: 15px; right: 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="position: absolute; bottom: 15px; right: 15px; filter: brightness(0) invert(1);" />
 
-<!-- Name with Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Amirtha+Varshni+M" alt="Typing Name" />
+<h1 style="font-size: 3rem; font-weight: 800; color: #667eea; margin: 0; text-shadow: 0 0 20px rgba(102, 126, 234, 0.5);">
+Amirtha Varshni M
+</h1>
 
-<!-- Subtitle -->
-<p style="color: #4ECDC4; font-size: 1.2rem; margin-top: 15px; font-weight: 600;">
-🤖 AI & ML Developer | ⚡ Full Stack Engineer
+<p style="color: #4ECDC4; font-size: 1.2rem; margin-top: 10px; font-weight: 600; text-shadow: 0 0 10px rgba(78, 205, 196, 0.5);">
+AI & ML Developer | Full Stack Engineer
 </p>
 
 </div>
