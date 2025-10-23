@@ -1,20 +1,22 @@
 <div align="center">
 
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=667eeA&center=true&vCenter=true&width=600&lines=Amirtha+Varshni+M" alt="Animated Name" />
+<!-- Matrix Style Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Amirtha+Varshni+M" alt="Matrix Name" />
+</h1>
 
-<!-- Rotating Badges -->
+<!-- Animated Tech Stack -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-AI%2FML%20Developer-667eea?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Full%20Stack-4ECDC4?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python%20Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-<!-- Animated Quote -->
+<!-- Animated Description -->
 <div align="center">
   
-  ![Quote](https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=4000&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions+With+Code;Transforming+Ideas+Into+Reality;Passionate+About+AI+Innovation)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=3500&pause=800&color=667eeA&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Specialist;Full+Stack+Web+Developer;Data+Science+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
   
 </div>
 
