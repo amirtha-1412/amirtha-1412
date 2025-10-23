@@ -1,50 +1,49 @@
 <div align="center">
 
-<div style="position: relative; padding: 50px 40px; background: linear-gradient(135deg, #667eea0f 0%, #764ba20f 50%, #4ECDC40f 100%); border-radius: 20px;">
+<!-- Animated Banner Container -->
+<div style="position: relative; padding: 50px 40px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 20px; border: 2px solid #667eea; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.1);">
 
-  <!-- Rotating Corner Icons -->
-  <div style="position: absolute; top: 15px; left: 15px; animation: rotate 6s linear infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" height="26" />
-  </div>
-  
-  <div style="position: absolute; top: 15px; right: 15px; animation: rotate 6s linear infinite reverse;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="26" height="26" />
-  </div>
-  
-  <div style="position: absolute; bottom: 15px; left: 15px; animation: rotate 4s linear infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" />
-  </div>
-  
-  <div style="position: absolute; bottom: 15px; right: 15px; animation: rotate 4s linear infinite reverse;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" />
-  </div>
+<!-- Corner Tech Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="position: absolute; top: 15px; left: 15px; animation: float 3s ease-in-out infinite;" />
 
-  <!-- Animated Gradient Name -->
-  <h1 style="font-size: 3.2rem; font-weight: 800; background: linear-gradient(45deg, #667eea, #764ba2, #4ECDC4, #667eea); background-size: 300% 300%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradientFlow 4s ease-in-out infinite; margin: 0;">
-    Amirtha Varshni M
-  </h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" height="30" style="position: absolute; top: 15px; right: 15px; animation: float 3s ease-in-out infinite 1s;" />
 
-  <!-- Simple Tagline -->
-  <p style="color: #6c757d; font-size: 1.1rem; margin-top: 10px;">
-    Transforming Ideas into Intelligent Solutions
-  </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" style="position: absolute; bottom: 15px; left: 15px; animation: float 3s ease-in-out infinite 2s;" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="position: absolute; bottom: 15px; right: 15px; animation: float 3s ease-in-out infinite 1.5s;" />
+
+<!-- Main Name -->
+<h1 style="font-size: 3rem; font-weight: 800; background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 0; padding: 0;">
+  Amirtha Varshni M
+</h1>
+
+<!-- Subtitle -->
+<p style="color: #4ECDC4; font-size: 1.2rem; margin-top: 10px; font-weight: 600;">
+  AI & ML Developer | Full Stack Engineer
+</p>
 
 </div>
 
+<!-- CSS Animations -->
 <style>
-  @keyframes rotate {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+.float-animation {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
   }
-  
-  @keyframes gradientFlow {
-    0%, 100% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
+  50% {
+    transform: translateY(-10px);
   }
+  100% {
+    transform: translateY(0px);
+  }
+}
 </style>
 
 </div>
-
 ## 👋 About Me
 
 I'm a passionate Computer Science (AI & ML) undergraduate with expertise in building intelligent, scalable solutions. I thrive on transforming complex challenges into efficient, AI-driven applications that make a real impact.
