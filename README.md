@@ -36,6 +36,7 @@
 </style>
 
 </div>
+
 ## 👋 About Me
 
 I'm a passionate Computer Science (AI & ML) undergraduate with expertise in building intelligent, scalable solutions. I thrive on transforming complex challenges into efficient, AI-driven applications that make a real impact.
