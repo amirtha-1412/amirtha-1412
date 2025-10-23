@@ -1,10 +1,22 @@
+<div align="center">
 
-### **AI & ML Developer | Full Stack Enthusiast | Problem Solver**
+<!-- Animated Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=667eeA&center=true&vCenter=true&width=600&lines=Amirtha+Varshni+M" alt="Animated Name" />
 
-![AI](https://img.shields.io/badge/AI-Developer-FF6B6B?style=flat-square)
-![ML](https://img.shields.io/badge/Machine-Learning-4ECDC4?style=flat-square)
-![Web](https://img.shields.io/badge/Full-Stack-45B7D1?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Pro-FFA500?style=flat-square)
+<!-- Rotating Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-AI%2FML%20Developer-667eea?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Full%20Stack-4ECDC4?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python%20Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<!-- Animated Quote -->
+<div align="center">
+  
+  ![Quote](https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=4000&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions+With+Code;Transforming+Ideas+Into+Reality;Passionate+About+AI+Innovation)
+  
+</div>
 
 </div>
 
