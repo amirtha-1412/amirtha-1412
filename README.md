@@ -86,16 +86,6 @@ I'm a passionate Computer Science (AI & ML) undergraduate with expertise in buil
 
 **Tech:** `Python` `Streamlit` `Scikit-learn` `Regression Models`
 
----
-
-### **📝 AI Notes Summarizer**
-> *Intelligent text summarization using advanced NLP techniques*
-
-![NLP](https://img.shields.io/badge/NLP-Summarization-purple)
-![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-red)
-![Web App](https://img.shields.io/badge/Web%20App-Streamlit-orange)
-
-**Tech:** `Streamlit` `Transformers` `Sumy` `NLP`
 
 ---
 
@@ -157,6 +147,5 @@ I'm a passionate Computer Science (AI & ML) undergraduate with expertise in buil
 
 **⭐ Star my repositories if you find something inspiring!**
 
-*Last Updated: February 2025*
 
 </div>
