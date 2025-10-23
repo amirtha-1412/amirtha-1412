@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Glass Effect Banner -->
 <div style="position: relative; padding: 50px 40px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2);">
 
