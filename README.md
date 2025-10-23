@@ -1,12 +1,108 @@
 <div align="center">
 
-<!-- Clean Animated Introduction -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&duration=2800&pause=800&color=667EEA&center=true&vCenter=true&width=500&lines=Amirtha+Varshni+M;AI+%26+ML+Developer)](https://git.io/typing-svg)
+<!-- Advanced Animated Banner with Multiple Corner Icons -->
+<div style="position: relative; padding: 50px 40px; background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 50%, #16213e 100%); border-radius: 20px; border: 2px solid #667eea; position: relative; overflow: hidden;">
 
-<!-- Simple Animated Description -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=16&duration=3500&pause=1200&color=8E44AD&center=true&vCenter=true&width=400&lines=Passionate+about+building+intelligent+solutions;Transforming+data+into+insights;Creating+impactful+technology" alt="Description" />
-</p>
+  <!-- Animated Background Pattern -->
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: 
+              radial-gradient(circle at 20% 80%, #667eea22 0%, transparent 50%),
+              radial-gradient(circle at 80% 20%, #764ba222 0%, transparent 50%),
+              radial-gradient(circle at 40% 40%, #4ECDC422 0%, transparent 50%); 
+              animation: backgroundShift 8s ease-in-out infinite alternate;">
+  </div>
+
+  <!-- Corner Tech Icons with Different Animations -->
+  <!-- Top Left - Python -->
+  <div style="position: absolute; top: 15px; left: 15px; animation: bounce 2s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" style="filter: drop-shadow(0 0 10px #3776AB);" />
+  </div>
+  
+  <!-- Top Right - TensorFlow -->
+  <div style="position: absolute; top: 15px; right: 15px; animation: bounce 2s ease-in-out infinite 0.5s;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" height="35" style="filter: drop-shadow(0 0 10px #FF6F00);" />
+  </div>
+  
+  <!-- Bottom Left - React -->
+  <div style="position: absolute; bottom: 15px; left: 15px; animation: bounce 2s ease-in-out infinite 1s;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" style="filter: drop-shadow(0 0 10px #61DAFB);" />
+  </div>
+  
+  <!-- Bottom Right - JavaScript -->
+  <div style="position: absolute; bottom: 15px; right: 15px; animation: bounce 2s ease-in-out infinite 1.5s;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" style="filter: drop-shadow(0 0 10px #F7DF1E);" />
+  </div>
+
+  <!-- Additional Side Icons -->
+  <!-- Middle Left - AI -->
+  <div style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); animation: float 4s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" height="30" style="filter: drop-shadow(0 0 8px #EE4C2C);" />
+  </div>
+  
+  <!-- Middle Right - Database -->
+  <div style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); animation: float 4s ease-in-out infinite 2s;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" style="filter: drop-shadow(0 0 8px #4479A1);" />
+  </div>
+
+  <!-- Main Content -->
+  <div style="position: relative; z-index: 2;">
+    
+    <!-- Animated Main Title -->
+    <div style="margin-bottom: 15px;">
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=AMIRTHA+VARSHNI+M)](https://git.io/typing-svg)
+    </div>
+
+    <!-- Animated Role with Icons -->
+    <div style="margin-bottom: 20px;">
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=4ECDC4&center=true&vCenter=true&width=700&lines=✨+AI+%26+MACHINE+LEARNING+DEVELOPER+✨;⚡+FULL+STACK+ENGINEER+⚡;🚀+TECH+INNOVATOR+%26+PROBLEM+SOLVER+🚀)](https://git.io/typing-svg)
+    </div>
+
+    <!-- Animated Tech Stack Grid -->
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 25px 0;">
+      <div style="animation: pulse 2s infinite;">🐍 Python Pro</div>
+      <div style="animation: pulse 2s infinite 0.2s;">🤖 ML Engineer</div>
+      <div style="animation: pulse 2s infinite 0.4s;">⚛️ React Dev</div>
+      <div style="animation: pulse 2s infinite 0.6s;">📊 Data Science</div>
+    </div>
+
+    <!-- Glowing Contact Button -->
+    <div style="margin-top: 20px;">
+      <a href="mailto:kitz7.amoo6@gmail.com" style="display: inline-block; padding: 12px 30px; background: linear-gradient(45deg, #667eea, #764ba2); color: white; text-decoration: none; border-radius: 25px; font-weight: bold; animation: glow 2s ease-in-out infinite alternate; transition: all 0.3s ease;">
+        📧 Let's Connect & Collaborate
+      </a>
+    </div>
+
+  </div>
+
+</div>
+
+<!-- Advanced CSS Animations -->
+<style>
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0) scale(1); }
+    50% { transform: translateY(-8px) scale(1.1); }
+  }
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0px) translateX(0px); }
+    33% { transform: translateY(-5px) translateX(3px); }
+    66% { transform: translateY(3px) translateX(-5px); }
+  }
+  
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.8; transform: scale(1.05); }
+  }
+  
+  @keyframes glow {
+    0% { box-shadow: 0 0 5px #667eea, 0 0 10px #667eea; }
+    100% { box-shadow: 0 0 15px #667eea, 0 0 30px #764ba2, 0 0 45px #4ECDC4; }
+  }
+  
+  @keyframes backgroundShift {
+    0% { background-position: 0% 0%; }
+    100% { background-position: 100% 100%; }
+  }
+</style>
 
 </div>
 
