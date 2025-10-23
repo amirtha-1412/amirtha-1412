@@ -1,11 +1,25 @@
+<!-- Centered Banner using HTML and inline SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amirtha-1412/amirtha-1412/main/header.png" alt="Amirtha Varshni M Banner">
+  <svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#151515"/>
+
+    <!-- Title Text -->
+    <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="48" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle">
+      Amirtha Varshni M
+    </text>
+
+    <!-- Subtitle Text -->
+    <text x="50%" y="75%" font-family="Arial, sans-serif" font-size="20" fill="#CCCCCC" text-anchor="middle" dominant-baseline="middle">
+      AI &amp; Machine Learning Engineer
+    </text>
+  </svg>
 </p>
 
 <h3 align="center">Computer Science Student | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  A passionate Computer Science undergraduate specializing in **AI & Machine Learning**, with proven expertise in software development, data structures, and building scalable, AI-powered applications [1].
+  A passionate Computer Science undergraduate specializing in **AI & Machine Learning**, with proven expertise in software development, data structures, and building scalable, AI-powered applications.
 </p>
 
 ---
@@ -16,7 +30,7 @@
   <summary><strong>AI-Powered Network Anomaly Detection System</strong></summary>
   <br>
   <p>
-    An intelligent cybersecurity system using Python, TensorFlow, and Scikit-learn to detect network intrusions in real-time. Features a React frontend and a Flask backend for a seamless user experience [1].
+    An intelligent cybersecurity system using Python, TensorFlow, and Scikit-learn to detect network intrusions in real-time. Features a React frontend and a Flask backend for a seamless user experience.
   </p>
 </details>
 
@@ -24,7 +38,7 @@
   <summary><strong>AI Notes Summarizer</strong></summary>
   <br>
   <p>
-    A web application built with Streamlit and Hugging Face Transformers that leverages both extractive and abstractive methods to generate concise summaries from unstructured text [1].
+    A web application built with Streamlit and Hugging Face Transformers that leverages both extractive and abstractive methods to generate concise summaries from unstructured text.
   </p>
 </details>
 
@@ -32,7 +46,7 @@
   <summary><strong>Taxi Fare Prediction Model</strong></summary>
   <br>
   <p>
-    Trained and deployed multiple regression models to accurately predict taxi fares. The project includes an interactive user interface built with Streamlit for real-time predictions [1].
+    Trained and deployed multiple regression models to accurately predict taxi fares. The project includes an interactive user interface built with Streamlit for real-time predictions.
   </p>
 </details>
 
@@ -65,7 +79,7 @@
 
 ### 🏆 Achievements & Recognition
 
--   **Second Prize**, *TNWISE Women Hackathon 2025* [1]
+-   **Second Prize**, *TNWISE Women Hackathon 2025*
 -   Developed and deployed multiple end-to-end ML-powered web applications.
 -   Proficient in building and training deep learning models for real-world use cases.
 
