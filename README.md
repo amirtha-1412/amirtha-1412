@@ -1,19 +1,26 @@
 <div align="center">
-<!-- Glass Effect Banner -->
-<div style="position: relative; padding: 50px 40px; background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2);">
 
-<!-- Floating Icons -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" style="position: absolute; top: 15px; left: 15px; filter: drop-shadow(0 0 8px #3776AB);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32" height="32" style="position: absolute; top: 15px; right: 15px; filter: drop-shadow(0 0 8px #FF6F00);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" style="position: absolute; bottom: 15px; left: 15px; filter: drop-shadow(0 0 8px #61DAFB);" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" style="position: absolute; bottom: 15px; right: 15px; filter: drop-shadow(0 0 8px #F7DF1E);" />
+<!-- Gradient Border Banner -->
+<div style="position: relative; padding: 50px 40px; background: white; border-radius: 20px; background: linear-gradient(white, white) padding-box, linear-gradient(45deg, #667eea, #764ba2, #4ECDC4) border-box; border: 3px solid transparent;">
+
+<!-- Corner Badges -->
+<div style="position: absolute; top: -10px; left: 20px; background: #667eea; color: white; padding: 5px 15px; border-radius: 15px; font-size: 0.9rem; font-weight: 600;">
+  Python
+</div>
+<div style="position: absolute; top: -10px; right: 20px; background: #4ECDC4; color: white; padding: 5px 15px; border-radius: 15px; font-size: 0.9rem; font-weight: 600;">
+  AI/ML
+</div>
+
+<!-- Corner Icons -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="25" height="25" style="position: absolute; bottom: 15px; left: 15px; opacity: 0.7;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25" style="position: absolute; bottom: 15px; right: 15px; opacity: 0.7;" />
 
 <!-- Content -->
-<h1 style="font-size: 3rem; font-weight: 800; background: linear-gradient(45deg, #667eea, #764ba2, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 0;">
+<h1 style="font-size: 3rem; font-weight: 800; background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin: 0;">
   Amirtha Varshni M
 </h1>
-<p style="color: #2D3748; font-size: 1.2rem; margin-top: 12px; font-weight: 600;">
-  AI & Machine Learning Specialist
+<p style="color: #2D3748; font-size: 1.1rem; margin-top: 10px; font-weight: 500;">
+  Building Intelligent Solutions with Code
 </p>
 
 </div>
