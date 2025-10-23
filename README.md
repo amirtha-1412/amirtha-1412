@@ -1,35 +1,43 @@
 <div align="center">
 
-<div style="position: relative; padding: 50px 40px; background: linear-gradient(135deg, #667eea0a 0%, #764ba20a 50%, #4ECDC40a 100%); border-radius: 20px; border: 2px solid #667eea33;">
+<div style="position: relative; padding: 50px 40px; background: linear-gradient(135deg, #667eea0f 0%, #764ba20f 50%, #4ECDC40f 100%); border-radius: 20px;">
 
-  <!-- Floating Corner Tech Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" style="position: absolute; top: 15px; left: 15px; animation: float 3s ease-in-out infinite; filter: drop-shadow(0 0 8px #3776AB);" />
+  <!-- Rotating Corner Icons -->
+  <div style="position: absolute; top: 15px; left: 15px; animation: rotate 6s linear infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" height="26" />
+  </div>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="28" height="28" style="position: absolute; top: 15px; right: 15px; animation: float 3s ease-in-out infinite 1s; filter: drop-shadow(0 0 8px #FF6F00);" />
+  <div style="position: absolute; top: 15px; right: 15px; animation: rotate 6s linear infinite reverse;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="26" height="26" />
+  </div>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" height="28" style="position: absolute; bottom: 15px; left: 15px; animation: float 3s ease-in-out infinite 2s; filter: drop-shadow(0 0 8px #61DAFB);" />
+  <div style="position: absolute; bottom: 15px; left: 15px; animation: rotate 4s linear infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" />
+  </div>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" height="28" style="position: absolute; bottom: 15px; right: 15px; animation: float 3s ease-in-out infinite 1.5s; filter: drop-shadow(0 0 8px #F7DF1E);" />
+  <div style="position: absolute; bottom: 15px; right: 15px; animation: rotate 4s linear infinite reverse;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" />
+  </div>
 
-  <!-- Main Name with Glow Effect -->
-  <h1 style="font-size: 3.5rem; font-weight: 800; background: linear-gradient(45deg, #667eea, #764ba2, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradientShift 4s ease-in-out infinite; margin: 0;">
+  <!-- Animated Gradient Name -->
+  <h1 style="font-size: 3.2rem; font-weight: 800; background: linear-gradient(45deg, #667eea, #764ba2, #4ECDC4, #667eea); background-size: 300% 300%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradientFlow 4s ease-in-out infinite; margin: 0;">
     Amirtha Varshni M
   </h1>
 
-  <!-- Subtle Tagline -->
-  <p style="color: #4ECDC4; font-size: 1.2rem; margin-top: 10px; font-weight: 500;">
-    AI & ML Developer | Full Stack Engineer
+  <!-- Simple Tagline -->
+  <p style="color: #6c757d; font-size: 1.1rem; margin-top: 10px;">
+    Transforming Ideas into Intelligent Solutions
   </p>
 
 </div>
 
 <style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0px) rotate(0deg); }
-    50% { transform: translateY(-10px) rotate(5deg); }
+  @keyframes rotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
   }
   
-  @keyframes gradientShift {
+  @keyframes gradientFlow {
     0%, 100% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
   }
