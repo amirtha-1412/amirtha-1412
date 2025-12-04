@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://s3.ezgif.com/tmp/ezgif-37879338de229c27.gif" alt="Banner" width="100%" />
+  <img src="ezgif-37879338de229c27.gif" alt="Banner" width="100%" />
 </p>
 
 <!-- Typing Effect -->
