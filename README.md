@@ -8,6 +8,33 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2200&pause=900&color=B388FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Machine+Learning+Engineer;Full-Stack+Developer;Building+Intelligent+Systems" />
 </p>
+<p align="center">
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=amirtha-1412&label=Profile+Views&color=00FFFF&style=flat-square" />
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/amirtha-varshni-m-a592632a6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/amirtha2314/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/kit23bam006" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+  </a>
+
+  <!-- CodeForces -->
+  <a href="https://codeforces.com/profile/Amirtha_1412" target="_blank">
+    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+
+</p>
+
 
 ## 👾 About Me  
 - 💠 AI & ML Developer focused on building intelligent, data-driven solutions  
