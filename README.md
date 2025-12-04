@@ -41,14 +41,14 @@
 I’m an AI & ML Developer with a strong interest in building intelligent, data-driven systems and modern web applications.  
 I enjoy working at the intersection of **Machine Learning, software development, and clean UI/UX design**, creating solutions that are both functional and elegant.
 
-- ⚡ Experienced in Python, ML model development, data handling & automation  
+- ⚡ Experienced in Python, building ML models, visual dashboards, and intuitive full-stack applications 
 - 💻 Skilled in crafting smooth front-end experiences with React & Streamlit  
-- 🧩 Strong foundation in DSA, problem-solving, and backend logic  
+- 🧩 Strong interest in deep learning, automation & efficient problem-solving  
 - 🚀 Passionate about Deep Learning, analytics, and futuristic tech innovation  
 - 🌱 Continuously learning, improving, and building real-world AI applications  
 
 
-## 📊 GitHub Stats & Trophies
+##  GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
