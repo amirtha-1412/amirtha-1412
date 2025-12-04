@@ -95,8 +95,8 @@ I enjoy working at the intersection of **Machine Learning, software development,
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="48" alt="Flask" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" alt="VS Code" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" alt="GitHub" />
-  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" width="48" alt="Power BI" />
-  <img src="https://seeklogo.com/images/G/google-colab-logo-0288E1408C-seeklogo.com.png" width="48" alt="Google Colab" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.png" width="48" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" alt="Google Colab" />
 </p>
 
 
