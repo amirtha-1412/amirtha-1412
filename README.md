@@ -70,10 +70,12 @@ I enjoy working at the intersection of **Machine Learning, software development,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" />
-</p>
+  
+  <!-- OOP -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2292/2292265.png" width="48" alt="OOP" />
 
-<p align="center">
-  <b>Object-Oriented Programming (OOP)</b> • <b>Database Management Systems (DBMS)</b>
+  <!-- DBMS -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="48" alt="DBMS" />
 </p>
 
 ---
@@ -89,12 +91,12 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ### 🧩 Tools & Frameworks
 <p align="center">
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" width="110" />
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="48" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" />
-  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" width="48" />
-  <img src="https://seeklogo.com/images/G/google-colab-logo-0288E1408C-seeklogo.com.png" width="48" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" width="110" alt="Streamlit" />
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="48" alt="Flask" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" alt="GitHub" />
+  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" width="48" alt="Power BI" />
+  <img src="https://seeklogo.com/images/G/google-colab-logo-0288E1408C-seeklogo.com.png" width="48" alt="Google Colab" />
 </p>
 
 
