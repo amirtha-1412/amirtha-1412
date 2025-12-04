@@ -41,11 +41,11 @@
 I’m an AI & ML Developer with a strong interest in building intelligent, data-driven systems and modern web applications.  
 I enjoy working at the intersection of **Machine Learning, software development, and clean UI/UX design**, creating solutions that are both functional and elegant.
 
-- ⚡ Experienced in Python, building ML models, visual dashboards, and intuitive full-stack applications 
-- 💻 Skilled in crafting smooth front-end experiences with React & Streamlit  
-- 🧩 Strong interest in deep learning, automation & efficient problem-solving  
-- 🚀 Passionate about Deep Learning, analytics, and futuristic tech innovation  
-- 🌱 Continuously learning, improving, and building real-world AI applications  
+-  Experienced in Python, building ML models, visual dashboards, and intuitive full-stack applications 
+-  Skilled in crafting smooth front-end experiences with React & Streamlit  
+-  Strong interest in deep learning, automation & efficient problem-solving  
+-  Passionate about Deep Learning, analytics, and futuristic tech innovation  
+-  Continuously learning, improving, and building real-world AI applications  
 
 
 ##  GitHub Stats & Trophies
@@ -60,40 +60,45 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-> ## Programming Languages
+### 🚀 Programming Languages & Core Concepts
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" />
 </p>
 
-> ## Frontend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48"/>
+  <b>Object-Oriented Programming (OOP)</b> • <b>Database Management Systems (DBMS)</b>
 </p>
 
-> ## Backend
+---
+
+### 🎨 Frontend Technologies
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
 </p>
 
-> ## Database
+---
+
+### 🧩 Tools & Frameworks
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" width="110" />
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg" width="48" />
+  <img src="https://seeklogo.com/images/G/google-colab-logo-0288E1408C-seeklogo.com.png" width="48" />
 </p>
 
-> ## Tools & Platforms
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48"/>
-</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" />
