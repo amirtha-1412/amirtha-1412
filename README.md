@@ -101,13 +101,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/amirtha-varshni-m-a592632a6" target="_blank">
