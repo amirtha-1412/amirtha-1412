@@ -6,5 +6,6 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=780&lines=AI+%26+ML+Developer;Building+Intelligent+Systems;Future+ML+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&duration=1600&pause=800&color=00FF88&center=true&vCenter=true&width=760&lines=>+AI+%26+ML+Developer;>+Full-Stack+Developer;>+Tech+Explorer" />
 </p>
+
