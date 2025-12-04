@@ -36,14 +36,17 @@
 </p>
 
 
-## 👾 About Me  
-- 💠 AI & ML Developer focused on building intelligent, data-driven solutions  
-- 💠 Skilled in ML models, data workflows & automation  
-- 💠 Passionate about creating smooth UIs with React & Streamlit  
-- 💠 Strong interest in Deep Learning, algorithms & scalable systems  
-- 💠 Love turning new ideas into functional, futuristic AI projects  
+##  About Me  
 
----
+I’m an AI & ML Developer with a strong interest in building intelligent, data-driven systems and modern web applications.  
+I enjoy working at the intersection of **Machine Learning, software development, and clean UI/UX design**, creating solutions that are both functional and elegant.
+
+- ⚡ Experienced in Python, ML model development, data handling & automation  
+- 💻 Skilled in crafting smooth front-end experiences with React & Streamlit  
+- 🧩 Strong foundation in DSA, problem-solving, and backend logic  
+- 🚀 Passionate about Deep Learning, analytics, and futuristic tech innovation  
+- 🌱 Continuously learning, improving, and building real-world AI applications  
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
