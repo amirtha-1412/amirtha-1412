@@ -1,1 +1,47 @@
 
+name: Generate Snake
+# run manually, on push and daily
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake SVG and GIF (snk)
+        # use the snk reusable action - svg-only is faster if you only need svg
+        uses: Platane/snk@v3
+        id: snk
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # outputs we want
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create output directory and move files
+        run: |
+          ls -la dist || true
+          mkdir -p dist || true
+          # (files should already be in dist from action)
+
+      - name: Deploy generated images to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
