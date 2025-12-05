@@ -45,7 +45,17 @@ I enjoy working at the intersection of **Machine Learning, software development,
 -  Skilled in crafting smooth front-end experiences with React & Streamlit  
 -  Strong interest in deep learning, automation & efficient problem-solving  
 -  Passionate about Deep Learning, analytics, and futuristic tech innovation  
--  Continuously learning, improving, and building real-world AI applications  
+-  Continuously learning, improving, and building real-world AI applications
+
+<div align="center">
+  
+### 📊 GitHub Activity
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical)
+  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirtha-1412&theme=github_dark)
+
+</div>
 
 
 ## 🛠️ Tech Stack
