@@ -49,11 +49,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ## GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical" style="float: left; width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical" style="float: right; width: 49%;" />
-</div>
-
+![Metrics](https://metrics.lecoq.io/amirtha-1412?template=classic&languages=1&stars=1&followup=1&people=1&repositories=1&activity=1&languages.colors=github&languages.limit=8&languages.sections=most-used&config.timezone=Asia%2FKolkata)
 
 ## 🛠️ Tech Stack
 
