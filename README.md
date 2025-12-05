@@ -49,14 +49,13 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 <p align="center"> <!-- GitHub Stats (Left) -->
 
-<img src="https://github-readme-stats-amirtha.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-amirtha.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
 
 <!-- Most Used Languages (Right) -->
 
-<img src="https://github-readme-stats-amirtha.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats-amirtha.vercel.app/api/top-langs/?username=amirththa-1412&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 
-</p> <!-- Streak Stats --> <p align="center"> <img src="https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical&hide_border=true" width="99%" /> </p> <!-- Activity Graph --> <p align="center"> <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=radical&radius=10" /> </p>
-
+</p> <!-- Streak Stats --> <p align="center"> <img src="https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical&hide_border=true" width="99%" alt="Streak Stats" /> </p> <!-- Contribution Graph --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=radical&radius=10" height="280em" alt="Activity Graph" /> </p>
 ---
 
 ## 🛠️ Tech Stack
