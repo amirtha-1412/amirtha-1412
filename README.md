@@ -47,15 +47,14 @@ I enjoy working at the intersection of **Machine Learning, software development,
 -  Passionate about Deep Learning, analytics, and futuristic tech innovation  
 -  Continuously learning, improving, and building real-world AI applications
 
-<div align="center">
-  
-### 📊 GitHub Activity
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical)
-  
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirtha-1412&theme=github_dark)
+## GitHub Stats
 
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true" /></td>
+  </tr>
+</table>
 
 
 ## 🛠️ Tech Stack
