@@ -49,7 +49,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 
 ## ⚡ GitHub Stats
-
 <table align="center">
   <tr>
     <!-- LEFT: GitHub Stats -->
@@ -87,8 +86,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
     src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=radical&radius=10"
   />
 </p>
-
-
 
 
 ---
