@@ -47,8 +47,8 @@ I enjoy working at the intersection of **Machine Learning, software development,
 -  Passionate about Deep Learning, analytics, and futuristic tech innovation  
 -  Continuously learning, improving, and building real-world AI applications  
 
-
 ## ⚡ GitHub Stats
+
 <table align="center">
   <tr>
     <!-- LEFT: GitHub Stats -->
@@ -86,7 +86,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
     src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=radical&radius=10"
   />
 </p>
-
 
 ---
 
