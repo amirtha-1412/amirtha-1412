@@ -47,7 +47,15 @@ I enjoy working at the intersection of **Machine Learning, software development,
 -  Passionate about Deep Learning, analytics, and futuristic tech innovation  
 -  Continuously learning, improving, and building real-world AI applications  
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <!-- Left Card --> <div style=" background: linear-gradient(135deg, #1a0033, #4b0082, #8a2be2); border-radius: 14px; padding: 22px; width: 360px; box-shadow: 0 0 25px rgba(165, 94, 255, 0.4); backdrop-filter: blur(6px); "> <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" /> </div> <!-- Right Card --> <div style=" background: linear-gradient(135deg, #1a0033, #4b0082, #8a2be2); border-radius: 14px; padding: 22px; width: 360px; box-shadow: 0 0 25px rgba(165, 94, 255, 0.4); backdrop-filter: blur(6px); "> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages" /> </div> </div> <br> <!-- Streak --> <p align="center"> <img src="https://streak-stats.demolab.com?user=amirtha-1412&theme=radical&hide_border=true" width="99%" /> </p> <!-- Graph --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=react-dark&radius=10" width="99%" /> </p>
+<p align="center"> <!-- GitHub Stats (Left) -->
+
+<img src="https://github-readme-stats-amirtha.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+
+<!-- Most Used Languages (Right) -->
+
+<img src="https://github-readme-stats-amirtha.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+
+</p> <!-- Streak Stats --> <p align="center"> <img src="https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical&hide_border=true" width="99%" /> </p> <!-- Activity Graph --> <p align="center"> <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=radical&radius=10" /> </p>
 
 ---
 
