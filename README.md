@@ -49,21 +49,12 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ## ⚡ GitHub Stats
 
-<p align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true"
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true"
-    height="180"
-  />
-
-</p>
-
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true" /></td>
+  </tr>
+</table>
 ## 🛠️ Tech Stack
 
 ### 🚀 Programming Languages & Core Concepts
