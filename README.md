@@ -47,16 +47,15 @@ I enjoy working at the intersection of **Machine Learning, software development,
 -  Passionate about Deep Learning, analytics, and futuristic tech innovation  
 -  Continuously learning, improving, and building real-world AI applications  
 
-<p align="center"> <!-- GitHub Stats (Left) -->
+<p align="center"> <!-- GitHub Stats -->
 
-<img src="https://github-readme-stats-amirtha.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&hide_border=true&theme=radical" height="180" />
 
-<!-- Most Used Languages (Right) -->
+<!-- Most Used Languages -->
 
-<img src="https://github-readme-stats-amirtha.vercel.app/api/top-langs/?username=amirththa-1412&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&hide_border=true&theme=radical" height="180" />
 
-</p> <!-- Streak Stats --> <p align="center"> <img src="https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical&hide_border=true" width="99%" alt="Streak Stats" /> </p> <!-- Contribution Graph --> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=radical&radius=10" height="280em" alt="Activity Graph" /> </p>
----
+</p>
 
 ## 🛠️ Tech Stack
 
