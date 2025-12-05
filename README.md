@@ -86,23 +86,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </p>
 
 
-<!-- Streak Below -->
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical&hide_border=true&cache_seconds=86400" 
-    width="99%" 
-  />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img 
-    height="280em" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=radical&radius=10" 
-  />
-</p>
-
-
 ---
 
 ## 🛠️ Tech Stack
