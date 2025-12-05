@@ -48,15 +48,39 @@ I enjoy working at the intersection of **Machine Learning, software development,
 -  Continuously learning, improving, and building real-world AI applications  
 
 
-##  GitHub Stats & Trophies
+## ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
+
+  <!-- Left: GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" 
+    width="49%" 
+  />
+
+  <!-- Right: Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" 
+    width="49%" 
+  />
+
 </p>
 
+<!-- Streak Below -->
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=radical&radius=10" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=amirtha-1412&theme=radical&hide_border=true&cache_seconds=86400" 
+    width="99%" 
+  />
 </p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img 
+    height="280em" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amirtha-1412&theme=radical&radius=10" 
+  />
+</p>
+
 
 ---
 
