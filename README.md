@@ -55,21 +55,13 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </div>
 
 ## 🛠️ Tech Stack
-
-### 🚀 Programming Languages & Core Concepts
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" />
-  
-  <!-- OOP -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2292/2292265.png" width="48" alt="OOP" />
-
-  <!-- DBMS -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="48" alt="DBMS" />
+### 🚀 Programming Languages & Core Concepts 
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" />
 </p>
-
 ---
 
 ### 🎨 Frontend Technologies
