@@ -92,77 +92,58 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ## 🚀 Featured Projects  
 
-<table>
-<tr>
-<td width="50%" style="vertical-align: top; padding: 15px;">
+---
 
-### <div align="center">AI Notes Summarizer</div>
-
-A text summarization system supporting extractive and abstractive techniques using NLP and Transformer models.  
-Features a clean Streamlit interface for real-time summarization.
+## AI Notes Summarizer  
+> A modern AI-driven system for extractive and abstractive text summarization, built using Transformer-based NLP pipelines with a clean, real-time Streamlit interface.
 
 **Key Features**  
-- Extractive + Abstractive summarization  
+- Extractive & abstractive summarization  
 - Transformer-based NLP pipeline  
-- Real-time UI  
-- Handles long-form text efficiently  
+- Handles long-form text effectively  
+- Lightweight real-time interface  
 
 **Tech Stack:** Python · NLP · Transformers · Streamlit  
 
-</td>
-<td width="50%" style="vertical-align: top; padding: 15px;">
+---
 
-### <div align="center">Taxi Fare Prediction (Machine Learning)</div>
-
-A regression-based ML model predicting taxi fares using engineered trip features such as distance, duration, and passenger count.  
-Supports interactive predictions through a Streamlit-based UI.
+## Taxi Fare Prediction (Machine Learning)  
+> A regression-based ML model that predicts taxi fares using engineered metrics like trip distance, duration, and passenger count, with an interactive prediction UI.
 
 **Key Features**  
 - End-to-end regression workflow  
-- Feature engineering & tuning  
-- Instant prediction interface  
-- Performance evaluation visualizations  
+- Feature engineering + tuning  
+- Real-time prediction interface  
+- Performance evaluation plots  
 
 **Tech Stack:** Python · Machine Learning · Regression · Streamlit  
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" style="vertical-align: top; padding: 15px;">
-
-### <div align="center">AI-Powered Smart Door Lock (IoT)</div>
-
-An intelligent IoT access-control system integrated with an onboard AI Risk Evaluation Engine.  
-Performs context-aware authentication using PIR sensors, RFID modules, and local AI scoring.
+## AI-Powered Smart Door Lock (IoT + AI)  
+> A fully offline intelligent access-control system combining IoT hardware with an onboard AI Risk Evaluation Engine for context-aware authentication.
 
 **Key Features**  
 - Multi-factor authentication (PIR + RFID)  
-- AI-based offline risk scoring  
-- Low-latency decision-making  
-- Servo + LED feedback system  
+- AI-based local risk scoring  
+- Offline decision-making (no cloud dependency)  
+- Servo + LED feedback indicators  
 
 **Tech Stack:** ESP8266 · RFID RC522 · PIR Sensor · Servo Motor · Embedded AI  
 
-</td>
-<td width="50%" style="vertical-align: top; padding: 15px;">
+---
 
-### <div align="center">Network Intrusion Detection System (NIDS)</div>
-
-A machine-learning–powered system for detecting malicious network traffic.  
-Uses engineered features and classification models for lightweight anomaly detection.
+## Network Intrusion Detection System (NIDS)  
+> A lightweight ML-based system for detecting malicious network traffic using supervised classification models and engineered network behavior features.
 
 **Key Features**  
 - ML-based anomaly detection  
-- Network feature engineering  
+- Feature-engineered datasets  
 - High-accuracy classification  
 - Scalable lightweight design  
 
 **Tech Stack:** Python · ML Classification · Cybersecurity  
 
-</td>
-</tr>
-</table>
 
 
 
