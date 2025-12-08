@@ -71,7 +71,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" /> 
 <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="48" alt="DBMS" />
 </p>
----
 
 ### 🎨 Frontend Technologies
 <p align="center">
@@ -80,7 +79,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
 </p>
 
----
 
 ### 🧩 Tools & Frameworks
 <p align="center">
