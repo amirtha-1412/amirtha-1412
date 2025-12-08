@@ -49,21 +49,18 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ## ⚡ GitHub Stats
 
-<p align="center">
-
-  <!-- GitHub Stats (working mirror) -->
-  <img 
+<div align="center" style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;align-items:center;">
+  <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true"
-    height="180"
+    style="width:48%;max-width:420px;height:auto;object-fit:contain;"
+    alt="GitHub Stats"
   />
-
-  <!-- Top Languages (working mirror) -->
-  <img 
+  <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true"
-    height="180"
+    style="width:48%;max-width:420px;height:auto;object-fit:contain;"
+    alt="Top Languages"
   />
-
-</p>
+</div>
 
 ## 🛠️ Tech Stack
 ### 🚀 Programming Languages & Core Concepts 
