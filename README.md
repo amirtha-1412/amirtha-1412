@@ -92,57 +92,95 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ## 🚀 Featured Projects  
 
----
+<table>
+<tr>
 
-## AI Notes Summarizer  
-> A modern AI-driven system for extractive and abstractive text summarization, built using Transformer-based NLP pipelines with a clean, real-time Streamlit interface.
+<!-- PROJECT 1 -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
 
-**Key Features**  
-- Extractive & abstractive summarization  
-- Transformer-based NLP pipeline  
-- Handles long-form text effectively  
-- Lightweight real-time interface  
+### AI Notes Summarizer  
+<div style="border-left: 3px solid #b388ff; padding-left: 12px;">
+
+A modern AI-driven summarization system supporting extractive and abstractive techniques using Transformer-based NLP models.  
+Designed with a clean Streamlit interface for fast, real-time summarization.
+
+**Highlights**  
+• Extractive + Abstractive summarization  
+• Transformer-based NLP pipeline  
+• Handles long-form text  
+• Real-time streamlined UI  
 
 **Tech Stack:** Python · NLP · Transformers · Streamlit  
+</div>
 
----
+</td>
 
-## Taxi Fare Prediction (Machine Learning)  
-> A regression-based ML model that predicts taxi fares using engineered metrics like trip distance, duration, and passenger count, with an interactive prediction UI.
+<!-- PROJECT 2 -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
 
-**Key Features**  
-- End-to-end regression workflow  
-- Feature engineering + tuning  
-- Real-time prediction interface  
-- Performance evaluation plots  
+### Taxi Fare Prediction (Machine Learning)  
+<div style="border-left: 3px solid #b388ff; padding-left: 12px;">
+
+A regression-based ML model predicting taxi fares using features like distance, duration, and passenger count.  
+Includes an intuitive Streamlit interface for instant fare predictions.
+
+**Highlights**  
+• Full regression ML pipeline  
+• Feature engineering + tuning  
+• Interactive prediction interface  
+• Performance evaluation plots  
 
 **Tech Stack:** Python · Machine Learning · Regression · Streamlit  
+</div>
 
----
+</td>
 
-## AI-Powered Smart Door Lock (IoT + AI)  
-> A fully offline intelligent access-control system combining IoT hardware with an onboard AI Risk Evaluation Engine for context-aware authentication.
+</tr>
+<tr>
 
-**Key Features**  
-- Multi-factor authentication (PIR + RFID)  
-- AI-based local risk scoring  
-- Offline decision-making (no cloud dependency)  
-- Servo + LED feedback indicators  
+<!-- PROJECT 3 -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
+
+### AI-Powered Smart Door Lock (IoT + AI)  
+<div style="border-left: 3px solid #b388ff; padding-left: 12px;">
+
+An intelligent access control system combining IoT hardware with an onboard AI Risk Evaluation Engine.  
+Uses PIR sensing, RFID identity checks, and behavior patterns to make offline, context-aware decisions.
+
+**Highlights**  
+• Multi-factor authentication (PIR + RFID)  
+• Local AI risk scoring engine  
+• Low-latency offline access control  
+• Servo + LED real-time indicators  
 
 **Tech Stack:** ESP8266 · RFID RC522 · PIR Sensor · Servo Motor · Embedded AI  
+</div>
 
----
+</td>
 
-## Network Intrusion Detection System (NIDS)  
-> A lightweight ML-based system for detecting malicious network traffic using supervised classification models and engineered network behavior features.
+<!-- PROJECT 4 -->
+<td width="50%" style="vertical-align: top; padding: 20px;">
 
-**Key Features**  
-- ML-based anomaly detection  
-- Feature-engineered datasets  
-- High-accuracy classification  
-- Scalable lightweight design  
+### Network Intrusion Detection System (NIDS)  
+<div style="border-left: 3px solid #b388ff; padding-left: 12px;">
+
+A lightweight ML-based intrusion detection system built to classify network traffic as normal or malicious.  
+Uses engineered features and supervised learning algorithms for accurate anomaly detection.
+
+**Highlights**  
+• ML-based anomaly detection  
+• Network feature engineering  
+• High-accuracy classification  
+• Scalable lightweight design  
 
 **Tech Stack:** Python · ML Classification · Cybersecurity  
+</div>
+
+</td>
+
+</tr>
+</table>
+
 
 
 
