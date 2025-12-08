@@ -116,13 +116,28 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 <h3>CodeChef</h3>
 
-<img src="https://codechef-readme-stats.vercel.app/api?username=kit23bam006&theme=dark" width="100%" />
+<div align="center">
 
-<br /><br />
+<!-- CodeChef Logo -->
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+
+<br><br>
+
+<!-- Stats Grid (Static but Beautiful) -->
+
+<img src="https://img.shields.io/badge/Problems%20Solved-___-b388ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Max%20Rating-___-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Rating-___-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contests-___-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Division-___-purple?style=for-the-badge" />
+
+<br><br>
 
 <a href="https://www.codechef.com/users/kit23bam006" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
+
+</div>
 
 </td>
 
