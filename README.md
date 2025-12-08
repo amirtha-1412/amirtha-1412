@@ -90,7 +90,68 @@ I enjoy working at the intersection of **Machine Learning, software development,
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" alt="Google Colab" />
 </p>
 
-## 🚀 Featured Projects  
+##  Competitive Programming Stats  
+<hr style="border:0; height:2px; background: linear-gradient(to right, #b388ff, transparent); margin:10px 0;" />
+
+<table>
+<tr>
+
+<!-- LeetCode -->
+<td width="33%" align="center" style="vertical-align: top; padding: 15px;">
+
+<h3>LeetCode</h3>
+
+<img src="https://leetcard.jacoblin.cool/amirtha2314?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" />
+
+<br />
+<a href="https://leetcode.com/u/amirtha2314/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</td>
+
+<!-- CodeChef -->
+<td width="33%" align="center" style="vertical-align: top; padding: 15px;">
+
+<h3>CodeChef</h3>
+
+<!-- Problems Solved / Rating Section -->
+<div align="center" style="padding:10px;">
+  
+<img src="https://img.shields.io/badge/Problems%20Solved-–-b388ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Max%20Rating-–-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Rating-–-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contests-–-blueviolet?style=for-the-badge" />
+
+<p style="font-size:14px; color:#ccc;">(CodeChef API does not allow live stats, but this panel formats your section professionally.)</p>
+
+<a href="https://www.codechef.com/users/kit23bam006" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+
+<!-- Codeforces -->
+<td width="33%" align="center" style="vertical-align: top; padding: 15px;">
+
+<h3>Codeforces</h3>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Amirtha_1412&theme=dark" width="100%" />
+
+<br />
+<a href="https://codeforces.com/profile/Amirtha_1412" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
+##  Featured Projects  
 
 ---
 
