@@ -89,9 +89,9 @@ I enjoy working at the intersection of **Machine Learning, software development,
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" alt="Power BI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" alt="Google Colab" />
 </p>
-
 ## 🚀 Featured Projects  
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #b388ff, transparent); margin: 15px 0;" />
+
+---
 
 <table>
 <tr>
@@ -105,15 +105,31 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </div>
 
 A modern AI-driven summarization system supporting extractive and abstractive methods using Transformer-based NLP models.  
-Built with a clean Streamlit interface for fast, real-time summarization.
+Built with a clean Streamlit interface for real-time summarization.
 
 **Key Features**  
 - Extractive + Abstractive summarization  
-- Transformer-based NLP workflow  
-- Handles long-form text efficiently  
-- Real-time Streamlit interface  
+- Transformer NLP workflow  
+- Handles long-form text  
+- Real-time UI  
 
-**Tech Stack:** Python · NLP · Transformers · Streamlit  
+**Tech Stack**  
+<table>
+<tr>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="28"/>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -125,16 +141,29 @@ Built with a clean Streamlit interface for fast, real-time summarization.
   <h3>Taxi Fare Prediction (Machine Learning)</h3>
 </div>
 
-A regression-based ML model predicting taxi fares based on engineered trip features like distance, duration, and passenger count.  
-Includes a responsive Streamlit UI for instant predictions.
+A regression-based ML model predicting taxi fares using engineered features like distance, duration, and passenger count.  
+Includes a fast Streamlit UI for real-time predictions.
 
 **Key Features**  
-- End-to-end regression pipeline  
-- Feature engineering + tuning  
-- Interactive prediction interface  
-- Performance evaluation plots  
+- Complete regression pipeline  
+- Feature engineering  
+- Prediction UI  
+- Model performance metrics  
 
-**Tech Stack:** Python · Machine Learning · Regression · Streamlit  
+**Tech Stack**  
+<table>
+<tr>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://cdn-icons-png.flaticon.com/512/907/907717.png" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="28"/>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -149,16 +178,31 @@ Includes a responsive Streamlit UI for instant predictions.
   <h3>AI-Powered Smart Door Lock (IoT + AI)</h3>
 </div>
 
-An intelligent IoT-based access control system integrating an onboard AI Risk Evaluation Engine.  
-Performs dynamic, context-aware authentication using PIR sensors, RFID modules, and behavioral risk scoring.
+An IoT access-control system integrating an offline AI Risk Engine using PIR & RFID for context-aware authentication.
 
 **Key Features**  
-- Multi-factor authentication (PIR + RFID)  
-- AI-based offline risk scoring  
-- Low-latency servo + LED feedback  
-- Works fully offline without cloud dependency  
+- PIR + RFID multi-factor auth  
+- Offline AI risk scoring  
+- Low-latency servo operation  
+- LED-based feedback  
 
-**Tech Stack:** ESP8266 · RFID RC522 · PIR Sensor · Servo Motor · Embedded AI  
+**Tech Stack**  
+<table>
+<tr>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://cdn-icons-png.flaticon.com/512/3202/3202926.png" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048947.png" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048916.png" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048910.png" width="28"/>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -170,21 +214,34 @@ Performs dynamic, context-aware authentication using PIR sensors, RFID modules, 
   <h3>Network Intrusion Detection System (NIDS)</h3>
 </div>
 
-A lightweight ML-based intrusion detection system built for classifying network traffic as normal or malicious.  
-Uses engineered behavioral features and supervised learning models for accurate anomaly detection.
+An ML-driven intrusion detection system classifying network traffic using engineered features.
 
 **Key Features**  
-- ML-driven anomaly detection  
-- Network feature engineering  
-- High-accuracy classification models  
-- Scalable and lightweight design  
+- Anomaly detection  
+- Feature-engineered datasets  
+- High-accuracy models  
+- Lightweight deployment  
 
-**Tech Stack:** Python · ML Classification · Cybersecurity  
+**Tech Stack**  
+<table>
+<tr>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://cdn-icons-png.flaticon.com/512/907/907717.png" width="28"/>
+</td>
+<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
+<img src="https://cdn-icons-png.flaticon.com/512/2889/2889737.png" width="28"/>
+</td>
+</tr>
+</table>
 
 </td>
 
 </tr>
 </table>
+
 
 
 
