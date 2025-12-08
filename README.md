@@ -190,8 +190,8 @@ A machine-learning-based intrusion detection system designed to classify network
 
 **Tech Stack**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-6A1B9A?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-8E24AA?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
 </td>
 
