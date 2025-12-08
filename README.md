@@ -96,27 +96,29 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 <!-- CARD 1 -->
 <div style="
-  width: 90%; 
-  background: #1a1a1a; 
-  border: 1px solid #333; 
-  border-radius: 12px; 
-  padding: 20px; 
-  margin: 15px 0; 
-  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  width: 90%;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 18px 0;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
   text-align: left;
 ">
   <h3 style="color:#b388ff;">AI Notes Summarizer</h3>
   <p>
-    An AI-powered summarization system supporting both extractive and abstractive techniques.  
-    Built with Transformer-based NLP pipelines and a clean Streamlit interface for real-time summarization.
+    An AI-driven summarization system supporting extractive and abstractive modes using NLP and Transformer models.  
+    Features a lightweight Streamlit interface for real-time summarization.
   </p>
 
   <b>Key Features</b>
   <ul>
-    <li>Dual-mode summarization (extractive & abstractive)</li>
+    <li>Extractive + Abstractive summarization</li>
     <li>Transformer-based NLP pipeline</li>
-    <li>Responsive real-time UI</li>
-    <li>Handles long-form text effectively</li>
+    <li>Real-time, responsive UI</li>
+    <li>Handles long-form text efficiently</li>
   </ul>
 
   <b>Tech Stack:</b> Python · NLP · Transformers · Streamlit
@@ -124,27 +126,29 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 <!-- CARD 2 -->
 <div style="
-  width: 90%; 
-  background: #1a1a1a; 
-  border: 1px solid #333; 
-  border-radius: 12px; 
-  padding: 20px; 
-  margin: 15px 0; 
-  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  width: 90%;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 18px 0;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
   text-align: left;
 ">
   <h3 style="color:#b388ff;">Taxi Fare Prediction (Machine Learning)</h3>
   <p>
-    A regression-based ML model predicting taxi fares using distance, duration, and passenger metrics.  
-    Includes an interactive Streamlit UI for real-time fare predictions.
+    An ML-based regression model designed to predict taxi fares using engineered trip features such as distance, duration, and passenger count.  
+    Includes an interactive Streamlit UI for real-time predictions.
   </p>
 
   <b>Key Features</b>
   <ul>
-    <li>Complete regression workflow</li>
-    <li>Feature engineering & model tuning</li>
-    <li>Prediction interface for instant results</li>
-    <li>Detailed performance evaluation</li>
+    <li>End-to-end regression workflow</li>
+    <li>Feature engineering & tuning</li>
+    <li>Instant prediction interface</li>
+    <li>Performance evaluation visualizations</li>
   </ul>
 
   <b>Tech Stack:</b> Python · Machine Learning · Regression · Streamlit
@@ -152,27 +156,29 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 <!-- CARD 3 -->
 <div style="
-  width: 90%; 
-  background: #1a1a1a; 
-  border: 1px solid #333; 
-  border-radius: 12px; 
-  padding: 20px; 
-  margin: 15px 0; 
-  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  width: 90%;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 18px 0;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
   text-align: left;
 ">
   <h3 style="color:#b388ff;">Intelligent Access Control — AI-Powered Smart Door Lock</h3>
   <p>
-    An IoT-based intelligent access control system integrated with an offline AI Risk Evaluation Engine.  
-    Performs context-aware authentication using PIR sensing, RFID identity checks, and behavior patterns.
+    A real-time IoT access control system enhanced with an onboard AI Risk Evaluation Engine.  
+    Performs context-aware authentication using PIR sensing, RFID identity validation, and behavior pattern analysis.
   </p>
 
   <b>Key Features</b>
   <ul>
     <li>Multi-factor authentication (PIR + RFID)</li>
-    <li>AI-based local risk scoring</li>
-    <li>Offline secure decision-making</li>
-    <li>Real-time status indication</li>
+    <li>Local AI-driven risk scoring</li>
+    <li>Offline decision-making</li>
+    <li>Real-time status indication with servo + LEDs</li>
   </ul>
 
   <b>Tech Stack:</b> ESP8266 · RFID RC522 · PIR Sensor · Servo Motor · Embedded AI
@@ -180,33 +186,36 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 <!-- CARD 4 -->
 <div style="
-  width: 90%; 
-  background: #1a1a1a; 
-  border: 1px solid #333; 
-  border-radius: 12px; 
-  padding: 20px; 
-  margin: 15px 0; 
-  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  width: 90%;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 25px;
+  margin: 18px 0;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
   text-align: left;
 ">
   <h3 style="color:#b388ff;">Network Intrusion Detection System (NIDS)</h3>
   <p>
-    A machine-learning–based intrusion detection system that classifies network traffic as normal or malicious.  
-    Designed for lightweight anomaly detection using engineered features and supervised models.
+    A machine learning–based intrusion detection system built for classification of normal vs malicious network traffic.  
+    Utilizes engineered features and supervised models to achieve efficient anomaly detection.
   </p>
 
   <b>Key Features</b>
   <ul>
-    <li>ML-powered anomaly detection</li>
-    <li>Feature engineering for network patterns</li>
-    <li>Efficient traffic classification models</li>
-    <li>Scalable detection design</li>
+    <li>ML-driven anomaly detection</li>
+    <li>Feature engineering for network datasets</li>
+    <li>High-accuracy classification</li>
+    <li>Scalable lightweight design</li>
   </ul>
 
   <b>Tech Stack:</b> Python · ML Classification · Cybersecurity
 </div>
 
 </div>
+
 
 
 ---
