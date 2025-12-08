@@ -96,70 +96,76 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ### AI Notes Summarizer  
 <details>
-<summary><b>Overview</b></summary>
+<summary><b>Project Overview</b></summary>
 
-A modern text-summarization system that supports both extractive and abstractive summarization using NLP and Transformer-based pipelines.  
-Includes a minimal, clean Streamlit interface for real-time summarization.
+A modern text summarization system supporting both extractive and abstractive techniques.  
+Built using Transformer-based NLP pipelines and deployed with a clean Streamlit interface for real-time summarization.
 
-**Highlights**
-- Dual-mode summarization  
-- Transformer-based AI pipeline  
-- Real-time processing interface  
+**Key Features**  
+• Dual-mode summarization (extractive & abstractive)  
+• Transformer-based NLP pipeline  
+• Lightweight, responsive UI  
+• Handles long-form text efficiently  
 
-**Tech Stack:** Python • NLP • Transformers • Streamlit  
+**Tech Stack:** Python · NLP · Transformers · Streamlit  
 </details>
 
 ---
 
 ### Taxi Fare Prediction (Machine Learning)  
 <details>
-<summary><b>Overview</b></summary>
+<summary><b>Project Overview</b></summary>
 
-A regression-based machine learning model that predicts taxi fares using trip features such as distance, duration, and passenger count.  
-Includes an interactive Streamlit UI for instant predictions.
+A regression-based ML model designed to predict taxi fares using engineered trip features including distance, duration, and passenger count.  
+Includes an intuitive Streamlit interface for interactive, instant predictions.
 
-**Highlights**
-- End-to-end ML regression workflow  
-- Feature engineering & model evaluation  
-- User-friendly prediction interface  
+**Key Features**  
+• End-to-end ML workflow  
+• Feature engineering & model tuning  
+• Predictive interface for real-time usage  
+• Clear model performance analysis  
 
-**Tech Stack:** Python • Machine Learning • Regression • Streamlit  
+**Tech Stack:** Python · Machine Learning · Regression · Streamlit  
 </details>
 
 ---
 
 ### Intelligent Access Control — AI-Powered Smart Door Lock  
 <details>
-<summary><b>Overview</b></summary>
+<summary><b>Project Overview</b></summary>
 
-An IoT-based intelligent door lock system powered by an onboard AI Risk Evaluation Engine.  
-Performs context-aware authentication using PIR, RFID, and access behavior, functioning completely offline without cloud dependency.
+An IoT-based intelligent access control system integrated with an onboard AI-driven Risk Evaluation Engine.  
+Performs dynamic, context-aware authentication using PIR sensing, RFID identity checks, and environmental behavior patterns — entirely offline.
 
-**Highlights**
-- Multi-factor authentication (PIR + RFID)  
-- Offline AI-based risk scoring  
-- Low-latency decision-making  
-- Standalone, privacy-focused prototype  
+**Key Features**  
+• Multi-factor authentication (PIR + RFID)  
+• AI-based local risk scoring  
+• Secure offline decision-making  
+• Real-time status indication  
+• Privacy-focused standalone system  
 
-**Tech Stack:** ESP8266 • RFID RC522 • PIR Sensor • Servo Motor • Embedded AI  
+**Tech Stack:** ESP8266 · RFID RC522 · PIR Sensor · Servo Motor · Embedded AI  
 </details>
 
 ---
 
 ### Network Intrusion Detection System (NIDS)  
 <details>
-<summary><b>Overview</b></summary>
+<summary><b>Project Overview</b></summary>
 
-A machine-learning–powered system designed to classify network traffic as normal or malicious.  
-Uses classification algorithms, engineered features, and pattern analysis to detect anomalies.
+A lightweight intrusion detection system using machine learning to classify network traffic into normal or malicious categories.  
+Built with feature-engineered datasets and supervised models to detect anomalies efficiently.
 
-**Highlights**
-- ML-based anomaly detection  
-- Network traffic feature engineering  
-- High-accuracy classification models  
+**Key Features**  
+• ML-based anomaly detection  
+• Feature engineering for network data  
+• High-accuracy classification models  
+• Designed for scalable intrusion detection  
 
-**Tech Stack:** Python • ML Classification • Cybersecurity  
+**Tech Stack:** Python · ML Classification · Cybersecurity  
 </details>
+
+---
 
 ---
 
