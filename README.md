@@ -90,77 +90,46 @@ I enjoy working at the intersection of **Machine Learning, software development,
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" alt="Google Colab" />
 </p>
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
+---
 
 ### 🔹 AI Notes Summarizer  
-A web app that performs both extractive and abstractive summarization using **Sumy**, **HuggingFace Transformers**, and **Streamlit**.  
-✔ Multiple summary modes  
-✔ Clean UI/UX  
-✔ Real-time text processing  
-<br>
+An AI-powered text summarization tool supporting both extractive and abstractive modes using NLP pipelines.  
+The application provides a clean Streamlit UI for real-time summarization of long-form text.
 
-**Tech:** Python, NLP, Streamlit  
-<br>  
-<a href="https://github.com/amirtha-1412/AI-Notes-Summarizer"><b>🔗 View Project</b></a>
+**Tech:** Python, NLP, Transformers, Streamlit
 
-</td>
-<td width="50%">
+---
 
-### 🔹 Taxi Fare Prediction (ML)  
-A regression-based ML model deployed with a **Streamlit UI** that predicts taxi fares using features like distance, passenger count, and trip time.  
-✔ ML pipeline  
-✔ Model training & evaluation  
-✔ Deployed interface  
-<br>
+### 🔹 Taxi Fare Prediction (Machine Learning)  
+A regression-based ML model designed to predict taxi fares using trip attributes such as distance, duration, and passenger count.  
+Includes a Streamlit-based interface that enables interactive predictions with a user-friendly flow.
 
-**Tech:** Python, ML, Streamlit  
-<br>  
-<a href="https://github.com/amirtha-1412/Taxi-Fare-Prediction"><b>🔗 View Project</b></a>
+**Tech:** Python, Machine Learning, Regression, Streamlit
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### 🔹 Intelligent Access Control: AI-Powered Smart Door Lock System  
+A smart access-control system integrating IoT hardware with an onboard AI engine for dynamic risk assessment.  
+The system performs context-aware authentication by analyzing user identity, motion, time of access, and behavior—entirely offline without cloud dependency.  
 
-### 🔹 Art Gallery Website  
-A responsive website to showcase art using **HTML, CSS, and JavaScript**.  
-✔ Interactive UI  
-✔ Gallery structure  
-✔ Smooth animations  
-<br>
+**Key Features:**  
+- Multi-factor authentication (PIR + RFID)  
+- AI-based Risk Evaluation Engine  
+- Offline, low-latency decision-making  
+- LED-based real-time status feedback  
+- Standalone, privacy-focused prototype  
 
-**Tech:** HTML, CSS, JS  
-<br>  
-<a href="https://github.com/amirtha-1412/Art_gallery"><b>🔗 View Project</b></a>
+**Tech:** NodeMCU (ESP8266), RFID RC522, PIR Sensor, Servo Motor, Embedded Systems, AI Risk Engine
 
-</td>
+---
 
-<td width="50%">
+### 🔹 Network Intrusion Detection System (NIDS)  
+A machine learning–based intrusion detection system developed to classify normal and malicious network traffic.  
+Utilizes feature engineering, supervised ML algorithms, and statistical patterns to accurately detect anomalies.
 
-### 🔹 Personal Portfolio Website  
-Your first portfolio built using **HTML & CSS** during your Web Dev internship.  
-✔ Clean & modern layout  
-✔ Projects, skills & contact  
-✔ Fully responsive  
-<br>
-
-**Tech:** HTML, CSS  
-<br>  
-<a href="https://github.com/amirtha-1412/Portfolio_AV"><b>🔗 View Project</b></a>
-
-</td>
-</tr>
-
-</table>
-
-</div>
+**Tech:** Python, Machine Learning, Classification, Cybersecurity
 
 
 ## 🔗 Connect with Me
