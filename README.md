@@ -49,8 +49,13 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ## GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <!-- Left: GitHub Stats Card --> <div style=" background: #ffffff; border-radius: 12px; padding: 20px; width: 380px; box-shadow: 0 0 10px rgba(0,0,0,0.15); border: 1px solid #eee; "> <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=default&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" /> </div> <!-- Right: Most Used Languages Card --> <div style=" background: #ffffff; border-radius: 12px; padding: 20px; width: 380px; box-shadow: 0 0 10px rgba(0,0,0,0.15); border: 1px solid #eee; "> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=default&hide_border=true" width="100%" alt="Top Languages" /> </div> </div>
+<p align="center">
 
+<img src="https://github-stats-alpha.vercel.app/api?username=amirtha-1412" width="380" alt="GitHub Stats" />
+
+<img src="https://github-stats-alpha.vercel.app/api/top-languages?username=amirtha-1412" width="380" alt="Top Languages" />
+
+</p>
 ## 🛠️ Tech Stack
 ### 🚀 Programming Languages & Core Concepts 
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" /> 
