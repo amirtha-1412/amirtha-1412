@@ -47,19 +47,24 @@ I enjoy working at the intersection of **Machine Learning, software development,
 -  Passionate about Deep Learning, analytics, and futuristic tech innovation  
 -  Continuously learning, improving, and building real-world AI applications
 
-## GitHub Stats
+## ⚡ GitHub Stats
 
-<p align="center"> <!-- GitHub Stats -->
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&hide_border=true&theme=radical" height="180" />
+  <!-- GitHub Stats (working mirror) -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true"
+    height="180"
+  />
 
-<!-- Top Languages (Working Link!!) -->
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true" height="180" />
+  <!-- Top Languages (working mirror) -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true"
+    height="180"
+  />
 
 </p>
 
-</p>
 ## 🛠️ Tech Stack
 ### 🚀 Programming Languages & Core Concepts 
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" /> 
