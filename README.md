@@ -49,10 +49,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=radical&hide_border=true" />
-</div>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <!-- Left: GitHub Stats Card --> <div style=" background: #ffffff; border-radius: 12px; padding: 20px; width: 380px; box-shadow: 0 0 10px rgba(0,0,0,0.15); border: 1px solid #eee; "> <img src="https://github-readme-stats.vercel.app/api?username=amirtha-1412&show_icons=true&theme=default&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" /> </div> <!-- Right: Most Used Languages Card --> <div style=" background: #ffffff; border-radius: 12px; padding: 20px; width: 380px; box-shadow: 0 0 10px rgba(0,0,0,0.15); border: 1px solid #eee; "> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha-1412&layout=compact&theme=default&hide_border=true" width="100%" alt="Top Languages" /> </div> </div>
 
 ## 🛠️ Tech Stack
 ### 🚀 Programming Languages & Core Concepts 
