@@ -111,19 +111,40 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </td>
 
 <!-- CodeChef -->
+<!-- CodeChef -->
 <td width="33%" align="center" style="vertical-align: top; padding: 15px;">
 
 <h3>CodeChef</h3>
 
-<!-- Problems Solved / Rating Section -->
-<div align="center" style="padding:10px;">
-  
-<img src="https://img.shields.io/badge/Problems%20Solved-–-b388ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Max%20Rating-–-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Current%20Rating-–-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Contests-–-blueviolet?style=for-the-badge" />
+<div align="center" style="padding: 12px; border-radius: 12px;">
 
-<p style="font-size:14px; color:#ccc;">(CodeChef API does not allow live stats, but this panel formats your section professionally.)</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Problems%20Solved---%20-blueviolet?style=for-the-badge" />
+</td>
+<td>
+<img src="https://img.shields.io/badge/Max%20Rating---%20-orange?style=for-the-badge" />
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://img.shields.io/badge/Current%20Rating---%20-brightgreen?style=for-the-badge" />
+</td>
+<td>
+<img src="https://img.shields.io/badge/Contests%20Given---%20-ff66c4?style=for-the-badge" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://img.shields.io/badge/Division-Unknown-lightgrey?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+<br />
 
 <a href="https://www.codechef.com/users/kit23bam006" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
@@ -132,6 +153,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </div>
 
 </td>
+
 
 <!-- Codeforces -->
 <td width="33%" align="center" style="vertical-align: top; padding: 15px;">
