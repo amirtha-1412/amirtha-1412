@@ -92,80 +92,122 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 ## 🚀 Featured Projects  
 
----
+<div align="center">
 
-### AI Notes Summarizer  
-<details>
-<summary><b>Project Overview</b></summary>
+<!-- CARD 1 -->
+<div style="
+  width: 90%; 
+  background: #1a1a1a; 
+  border: 1px solid #333; 
+  border-radius: 12px; 
+  padding: 20px; 
+  margin: 15px 0; 
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  text-align: left;
+">
+  <h3 style="color:#b388ff;">AI Notes Summarizer</h3>
+  <p>
+    An AI-powered summarization system supporting both extractive and abstractive techniques.  
+    Built with Transformer-based NLP pipelines and a clean Streamlit interface for real-time summarization.
+  </p>
 
-A modern text summarization system supporting both extractive and abstractive techniques.  
-Built using Transformer-based NLP pipelines and deployed with a clean Streamlit interface for real-time summarization.
+  <b>Key Features</b>
+  <ul>
+    <li>Dual-mode summarization (extractive & abstractive)</li>
+    <li>Transformer-based NLP pipeline</li>
+    <li>Responsive real-time UI</li>
+    <li>Handles long-form text effectively</li>
+  </ul>
 
-**Key Features**  
-• Dual-mode summarization (extractive & abstractive)  
-• Transformer-based NLP pipeline  
-• Lightweight, responsive UI  
-• Handles long-form text efficiently  
+  <b>Tech Stack:</b> Python · NLP · Transformers · Streamlit
+</div>
 
-**Tech Stack:** Python · NLP · Transformers · Streamlit  
-</details>
+<!-- CARD 2 -->
+<div style="
+  width: 90%; 
+  background: #1a1a1a; 
+  border: 1px solid #333; 
+  border-radius: 12px; 
+  padding: 20px; 
+  margin: 15px 0; 
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  text-align: left;
+">
+  <h3 style="color:#b388ff;">Taxi Fare Prediction (Machine Learning)</h3>
+  <p>
+    A regression-based ML model predicting taxi fares using distance, duration, and passenger metrics.  
+    Includes an interactive Streamlit UI for real-time fare predictions.
+  </p>
 
----
+  <b>Key Features</b>
+  <ul>
+    <li>Complete regression workflow</li>
+    <li>Feature engineering & model tuning</li>
+    <li>Prediction interface for instant results</li>
+    <li>Detailed performance evaluation</li>
+  </ul>
 
-### Taxi Fare Prediction (Machine Learning)  
-<details>
-<summary><b>Project Overview</b></summary>
+  <b>Tech Stack:</b> Python · Machine Learning · Regression · Streamlit
+</div>
 
-A regression-based ML model designed to predict taxi fares using engineered trip features including distance, duration, and passenger count.  
-Includes an intuitive Streamlit interface for interactive, instant predictions.
+<!-- CARD 3 -->
+<div style="
+  width: 90%; 
+  background: #1a1a1a; 
+  border: 1px solid #333; 
+  border-radius: 12px; 
+  padding: 20px; 
+  margin: 15px 0; 
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  text-align: left;
+">
+  <h3 style="color:#b388ff;">Intelligent Access Control — AI-Powered Smart Door Lock</h3>
+  <p>
+    An IoT-based intelligent access control system integrated with an offline AI Risk Evaluation Engine.  
+    Performs context-aware authentication using PIR sensing, RFID identity checks, and behavior patterns.
+  </p>
 
-**Key Features**  
-• End-to-end ML workflow  
-• Feature engineering & model tuning  
-• Predictive interface for real-time usage  
-• Clear model performance analysis  
+  <b>Key Features</b>
+  <ul>
+    <li>Multi-factor authentication (PIR + RFID)</li>
+    <li>AI-based local risk scoring</li>
+    <li>Offline secure decision-making</li>
+    <li>Real-time status indication</li>
+  </ul>
 
-**Tech Stack:** Python · Machine Learning · Regression · Streamlit  
-</details>
+  <b>Tech Stack:</b> ESP8266 · RFID RC522 · PIR Sensor · Servo Motor · Embedded AI
+</div>
 
----
+<!-- CARD 4 -->
+<div style="
+  width: 90%; 
+  background: #1a1a1a; 
+  border: 1px solid #333; 
+  border-radius: 12px; 
+  padding: 20px; 
+  margin: 15px 0; 
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+  text-align: left;
+">
+  <h3 style="color:#b388ff;">Network Intrusion Detection System (NIDS)</h3>
+  <p>
+    A machine-learning–based intrusion detection system that classifies network traffic as normal or malicious.  
+    Designed for lightweight anomaly detection using engineered features and supervised models.
+  </p>
 
-### Intelligent Access Control — AI-Powered Smart Door Lock  
-<details>
-<summary><b>Project Overview</b></summary>
+  <b>Key Features</b>
+  <ul>
+    <li>ML-powered anomaly detection</li>
+    <li>Feature engineering for network patterns</li>
+    <li>Efficient traffic classification models</li>
+    <li>Scalable detection design</li>
+  </ul>
 
-An IoT-based intelligent access control system integrated with an onboard AI-driven Risk Evaluation Engine.  
-Performs dynamic, context-aware authentication using PIR sensing, RFID identity checks, and environmental behavior patterns — entirely offline.
+  <b>Tech Stack:</b> Python · ML Classification · Cybersecurity
+</div>
 
-**Key Features**  
-• Multi-factor authentication (PIR + RFID)  
-• AI-based local risk scoring  
-• Secure offline decision-making  
-• Real-time status indication  
-• Privacy-focused standalone system  
+</div>
 
-**Tech Stack:** ESP8266 · RFID RC522 · PIR Sensor · Servo Motor · Embedded AI  
-</details>
-
----
-
-### Network Intrusion Detection System (NIDS)  
-<details>
-<summary><b>Project Overview</b></summary>
-
-A lightweight intrusion detection system using machine learning to classify network traffic into normal or malicious categories.  
-Built with feature-engineered datasets and supervised models to detect anomalies efficiently.
-
-**Key Features**  
-• ML-based anomaly detection  
-• Feature engineering for network data  
-• High-accuracy classification models  
-• Designed for scalable intrusion detection  
-
-**Tech Stack:** Python · ML Classification · Cybersecurity  
-</details>
-
----
 
 ---
 
