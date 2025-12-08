@@ -116,41 +116,13 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 <h3>CodeChef</h3>
 
-<div align="center" style="padding: 12px; border-radius: 12px;">
+<img src="https://codechef-readme-stats.vercel.app/api?username=kit23bam006&theme=dark" width="100%" />
 
-<table align="center">
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Problems%20Solved---%20-blueviolet?style=for-the-badge" />
-</td>
-<td>
-<img src="https://img.shields.io/badge/Max%20Rating---%20-orange?style=for-the-badge" />
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="https://img.shields.io/badge/Current%20Rating---%20-brightgreen?style=for-the-badge" />
-</td>
-<td>
-<img src="https://img.shields.io/badge/Contests%20Given---%20-ff66c4?style=for-the-badge" />
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<img src="https://img.shields.io/badge/Division-Unknown-lightgrey?style=for-the-badge" />
-</td>
-</tr>
-</table>
-
-<br />
+<br /><br />
 
 <a href="https://www.codechef.com/users/kit23bam006" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
-
-</div>
 
 </td>
 
