@@ -89,6 +89,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" alt="Power BI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" alt="Google Colab" />
 </p>
+
 ## 🚀 Featured Projects  
 
 ---
@@ -99,71 +100,48 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <!-- PROJECT 1 -->
 <td width="50%" style="vertical-align: top; padding: 20px;">
 
-<div style="padding: 10px 0;">
+<div>
   <div style="height: 4px; width: 70px; background: #b388ff; border-radius: 2px; margin-bottom: 8px;"></div>
   <h3>AI Notes Summarizer</h3>
 </div>
 
-A modern AI-driven summarization system supporting extractive and abstractive methods using Transformer-based NLP models.  
-Built with a clean Streamlit interface for real-time summarization.
+A modern summarization system supporting extractive and abstractive techniques using Transformer-based NLP models.  
+Built with an elegant Streamlit interface for real-time, clean summarization.
 
 **Key Features**  
 - Extractive + Abstractive summarization  
-- Transformer NLP workflow  
-- Handles long-form text  
-- Real-time UI  
+- Transformer NLP pipeline  
+- Handles long text efficiently  
+- Real-time Streamlit UI  
 
 **Tech Stack**  
-<table>
-<tr>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="28"/>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-8533FF?style=flat-square&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 </td>
 
 <!-- PROJECT 2 -->
 <td width="50%" style="vertical-align: top; padding: 20px;">
 
-<div style="padding: 10px 0;">
+<div>
   <div style="height: 4px; width: 70px; background: #b388ff; border-radius: 2px; margin-bottom: 8px;"></div>
   <h3>Taxi Fare Prediction (Machine Learning)</h3>
 </div>
 
-A regression-based ML model predicting taxi fares using engineered features like distance, duration, and passenger count.  
-Includes a fast Streamlit UI for real-time predictions.
+A regression-based ML system predicting taxi fares using distance, duration, and passenger count, supported by a clean Streamlit UI.
 
 **Key Features**  
-- Complete regression pipeline  
+- Regression ML pipeline  
 - Feature engineering  
-- Prediction UI  
-- Model performance metrics  
+- Interactive prediction UI  
+- Model performance evaluation  
 
 **Tech Stack**  
-<table>
-<tr>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://cdn-icons-png.flaticon.com/512/907/907717.png" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="28"/>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 </td>
 
@@ -173,69 +151,47 @@ Includes a fast Streamlit UI for real-time predictions.
 <!-- PROJECT 3 -->
 <td width="50%" style="vertical-align: top; padding: 20px;">
 
-<div style="padding: 10px 0;">
+<div>
   <div style="height: 4px; width: 70px; background: #b388ff; border-radius: 2px; margin-bottom: 8px;"></div>
   <h3>AI-Powered Smart Door Lock (IoT + AI)</h3>
 </div>
 
-An IoT access-control system integrating an offline AI Risk Engine using PIR & RFID for context-aware authentication.
+A smart IoT-based access control system integrating PIR sensing, RFID scanning, and an offline AI-driven Risk Evaluation Engine.
 
 **Key Features**  
-- PIR + RFID multi-factor auth  
-- Offline AI risk scoring  
-- Low-latency servo operation  
-- LED-based feedback  
+- Multi-factor auth (PIR + RFID)  
+- AI-based local risk scoring  
+- Low-latency servo control  
+- LED-based feedback system  
 
 **Tech Stack**  
-<table>
-<tr>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://cdn-icons-png.flaticon.com/512/3202/3202926.png" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048947.png" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048916.png" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048910.png" width="28"/>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/RFID_RC522-5A4FCF?style=flat-square&logo=protocols&logoColor=white" />
+<img src="https://img.shields.io/badge/PIR_Sensor-00ACC1?style=flat-square&logo=sensory&logoColor=white" />
+<img src="https://img.shields.io/badge/Servo_Motor-FFB300?style=flat-square&logo=arduino&logoColor=black" />
 
 </td>
 
 <!-- PROJECT 4 -->
 <td width="50%" style="vertical-align: top; padding: 20px;">
 
-<div style="padding: 10px 0;">
+<div>
   <div style="height: 4px; width: 70px; background: #b388ff; border-radius: 2px; margin-bottom: 8px;"></div>
   <h3>Network Intrusion Detection System (NIDS)</h3>
 </div>
 
-An ML-driven intrusion detection system classifying network traffic using engineered features.
+A machine-learning-based intrusion detection system designed to classify network behavior as normal or malicious based on engineered features.
 
 **Key Features**  
-- Anomaly detection  
+- ML-based anomaly detection  
 - Feature-engineered datasets  
-- High-accuracy models  
-- Lightweight deployment  
+- High-accuracy classification  
+- Lightweight, scalable design  
 
 **Tech Stack**  
-<table>
-<tr>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://cdn-icons-png.flaticon.com/512/907/907717.png" width="28"/>
-</td>
-<td align="center" style="padding:6px; border:1px solid #444; border-radius:6px;">
-<img src="https://cdn-icons-png.flaticon.com/512/2889/2889737.png" width="28"/>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-6A1B9A?style=flat-square&logo=databricks&logoColor=white" />
 
 </td>
 
