@@ -47,7 +47,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 -  Passionate about Deep Learning, analytics, and futuristic tech innovation  
 -  Continuously learning, improving, and building real-world AI applications
 
-## ⚡ GitHub Stats
+##  GitHub Stats
 
 <div align="center" style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;align-items:center;">
   <img
@@ -62,8 +62,8 @@ I enjoy working at the intersection of **Machine Learning, software development,
   />
 </div>
 
-## 🛠️ Tech Stack
-### 🚀 Programming Languages & Core Concepts 
+##  Tech Stack
+###  Programming Languages & Core Concepts 
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" />
@@ -72,7 +72,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="48" alt="DBMS" />
 </p>
 
-### 🎨 Frontend Technologies
+###  Frontend Technologies
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
@@ -80,7 +80,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </p>
 
 
-### 🧩 Tools & Frameworks
+###  Tools & Frameworks
 <p align="center">
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" width="110" alt="Streamlit" />
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="48" alt="Flask" />
@@ -90,6 +90,77 @@ I enjoy working at the intersection of **Machine Learning, software development,
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" alt="Google Colab" />
 </p>
 
+## 🚀 Featured Projects  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 AI Notes Summarizer  
+A web app that performs both extractive and abstractive summarization using **Sumy**, **HuggingFace Transformers**, and **Streamlit**.  
+✔ Multiple summary modes  
+✔ Clean UI/UX  
+✔ Real-time text processing  
+<br>
+
+**Tech:** Python, NLP, Streamlit  
+<br>  
+<a href="https://github.com/amirtha-1412/AI-Notes-Summarizer"><b>🔗 View Project</b></a>
+
+</td>
+<td width="50%">
+
+### 🔹 Taxi Fare Prediction (ML)  
+A regression-based ML model deployed with a **Streamlit UI** that predicts taxi fares using features like distance, passenger count, and trip time.  
+✔ ML pipeline  
+✔ Model training & evaluation  
+✔ Deployed interface  
+<br>
+
+**Tech:** Python, ML, Streamlit  
+<br>  
+<a href="https://github.com/amirtha-1412/Taxi-Fare-Prediction"><b>🔗 View Project</b></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 Art Gallery Website  
+A responsive website to showcase art using **HTML, CSS, and JavaScript**.  
+✔ Interactive UI  
+✔ Gallery structure  
+✔ Smooth animations  
+<br>
+
+**Tech:** HTML, CSS, JS  
+<br>  
+<a href="https://github.com/amirtha-1412/Art_gallery"><b>🔗 View Project</b></a>
+
+</td>
+
+<td width="50%">
+
+### 🔹 Personal Portfolio Website  
+Your first portfolio built using **HTML & CSS** during your Web Dev internship.  
+✔ Clean & modern layout  
+✔ Projects, skills & contact  
+✔ Fully responsive  
+<br>
+
+**Tech:** HTML, CSS  
+<br>  
+<a href="https://github.com/amirtha-1412/Portfolio_AV"><b>🔗 View Project</b></a>
+
+</td>
+</tr>
+
+</table>
+
+</div>
 
 
 ## 🔗 Connect with Me
