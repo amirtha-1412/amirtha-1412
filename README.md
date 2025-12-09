@@ -123,12 +123,12 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 <br><br>
 
-<!-- Stats Grid (Filled Manually) -->
+<!-- Stats Grid (Manually Filled) -->
 
-<img src="https://img.shields.io/badge/Problems%20Solved-–-b388ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problems%20Solved-438-b388ff?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Max%20Rating-1189-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Current%20Rating-1189-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Contests-4-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contests-88-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Division-Div%204-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Global%20Rank-85037-9cf?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Country%20Rank-80145-yellow?style=for-the-badge" />
@@ -142,6 +142,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </div>
 
 </td>
+
 
 
 
