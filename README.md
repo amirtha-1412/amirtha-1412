@@ -141,9 +141,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 </td>
 
-
-
-
 <!-- Codeforces -->
 <td width="33%" align="center" style="vertical-align: top; padding: 15px;">
 
@@ -155,9 +152,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <a href="https://codeforces.com/profile/Amirtha_1412" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
-
 </td>
-
 </tr>
 </table>
 
