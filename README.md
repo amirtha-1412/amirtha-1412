@@ -156,7 +156,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </tr>
 </table>
 
-
 ##  Featured Projects  
 
 ---
