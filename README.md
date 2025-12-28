@@ -34,7 +34,6 @@
 
 </p>
 
-
 ##  About Me  
 
 I’m an AI & ML Developer with a strong interest in building intelligent, data-driven systems and modern web applications.  
@@ -94,21 +93,18 @@ I enjoy working at the intersection of **Machine Learning, software development,
 
 <table>
 <tr>
-
 <!-- LeetCode -->
 <td width="33%" align="center" style="vertical-align: top; padding: 15px;">
 
 <h3>LeetCode</h3>
 
 <img src="https://leetcard.jacoblin.cool/amirtha2314?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" />
-
 <br />
 <a href="https://leetcode.com/u/amirtha2314/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </td>
-
 <!-- CodeChef -->
 <td width="33%" align="center" style="vertical-align: top; padding: 15px;">
 
@@ -120,7 +116,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 
 <br><br>
-
 <!-- Stats Grid (Manually Filled) -->
 
 <img src="https://img.shields.io/badge/Problems%20Solved-453-b388ff?style=for-the-badge" />
