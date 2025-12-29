@@ -9,7 +9,6 @@
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=amirtha-1412&label=Profile+Views&color=00FFFF&style=flat-square" />
-
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/amirtha-varshni-m-a592632a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
