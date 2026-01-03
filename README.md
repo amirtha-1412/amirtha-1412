@@ -93,7 +93,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <td width="33%" align="center" style="vertical-align: top; padding: 15px;">
 
 <h3>LeetCode</h3>
-
 <img src="https://leetcard.jacoblin.cool/amirtha2314?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" />
 <br />
 <a href="https://leetcode.com/u/amirtha2314/" target="_blank">
