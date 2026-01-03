@@ -98,7 +98,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <a href="https://leetcode.com/u/amirtha2314/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-
 </td>
 <!-- CodeChef -->
 <td width="33%" align="center" style="vertical-align: top; padding: 15px;">
