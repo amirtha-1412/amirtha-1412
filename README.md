@@ -13,22 +13,18 @@
   <a href="https://linkedin.com/in/amirtha-varshni-m-a592632a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/amirtha2314/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
-
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/kit23bam006" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>
-
   <!-- CodeForces -->
   <a href="https://codeforces.com/profile/Amirtha_1412" target="_blank">
     <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
-
 </p>
 ##  About Me  
 
