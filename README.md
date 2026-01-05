@@ -35,7 +35,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 -  Strong interest in deep learning, automation & efficient problem-solving  
 -  Passionate about Deep Learning, analytics, and futuristic tech innovation  
 -  Continuously learning, improving, and building real-world AI applications
-
 ##  GitHub Stats
 
 <div align="center" style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;align-items:center;">
