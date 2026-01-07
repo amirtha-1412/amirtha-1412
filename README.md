@@ -27,6 +27,7 @@
   </a>
 </p>
 ##  About Me  
+
 I’m an AI & ML Developer with a strong interest in building intelligent, data-driven systems and modern web applications.  
 I enjoy working at the intersection of **Machine Learning, software development, and clean UI/UX design**, creating solutions that are both functional and elegant.
 
