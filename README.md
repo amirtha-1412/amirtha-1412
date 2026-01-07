@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
 </p>
+
 ##  About Me  
 
 I’m an AI & ML Developer with a strong interest in building intelligent, data-driven systems and modern web applications.  
