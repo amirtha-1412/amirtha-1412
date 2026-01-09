@@ -119,7 +119,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <br><br>
 
 <a href="https://www.codechef.com/users/kit23bam006" target="_blank">
-<img src="https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/Codechef_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </div>
