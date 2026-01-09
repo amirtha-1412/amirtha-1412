@@ -99,12 +99,9 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <td width="33%" align="center" style="vertical-align: top; padding: 15px;">
 
 <h3>CodeChef</h3>
-
 <div align="center">
 
 <!-- CodeChef Logo -->
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-
 <br><br>
 <!-- Stats Grid (Manually Filled) -->
 
