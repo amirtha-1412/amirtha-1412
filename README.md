@@ -97,7 +97,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </td>
 <!-- CodeChef -->
 <td width="33%" align="center" style="vertical-align: top; padding: 15px;">
-
 <h3>CodeChef</h3>
 <div align="center">
 
