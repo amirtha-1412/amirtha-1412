@@ -69,7 +69,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
 </p>
 
-
 ###  Tools & Frameworks
 <p align="center">
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" width="110" alt="Streamlit" />
