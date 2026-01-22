@@ -106,7 +106,7 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <img src="https://img.shields.io/badge/Max%20Rating-1411-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Current%20Rating-1411-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Contests-93-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Division-Div%204-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Division-Div%203-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Global%20Rank-48922-9cf?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Country%20Rank-45452-yellow?style=for-the-badge" />
 
