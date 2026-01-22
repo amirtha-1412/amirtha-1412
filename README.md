@@ -103,8 +103,8 @@ I enjoy working at the intersection of **Machine Learning, software development,
 <!-- Stats Grid (Manually Filled) -->
 
 <img src="https://img.shields.io/badge/Problems%20Solved-505-b388ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Max%20Rating-1374-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Current%20Rating-1374-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Max%20Rating-1411-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Rating-1411-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Contests-93-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Division-Div%204-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Global%20Rank-48922-9cf?style=for-the-badge" />
