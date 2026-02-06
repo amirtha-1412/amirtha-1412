@@ -117,7 +117,6 @@ I enjoy working at the intersection of **Machine Learning, software development,
 </a>
 
 </div>
-
 </td>
 
 <!-- Codeforces -->
